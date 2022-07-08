@@ -1,0 +1,16 @@
+iterative structure size = 2537
+find the best iterative trail, runtime = 16.089
+find the best iterative cluster, runtime = 90.499
+extend runtime = 0.021
+size of s0 = 3209
+forward runtime = 0.107
+backward runtime = 0.147
+middle runtime = 48.255
+best distinguisher:
+000f00000000000f
+0000050000000500
+0
+61.8147
+output before P:
+0000050500000000
+244.166

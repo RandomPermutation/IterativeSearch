@@ -1,0 +1,1809 @@
+si=	2	0	6	47	9	so=	2	0	4	47	12	dist=	56	weight=	4	sign=	0
+si=	2	0	6	47	9	so=	2	0	2	40	4	dist=	63	weight=	4	sign=	0
+si=	2	0	6	47	9	so=	4	0	1	9	4	39	8	56	12	dist=	47	weight=	4	sign=	0
+si=	2	0	6	47	9	so=	4	0	1	16	2	39	8	56	4	dist=	47	weight=	4	sign=	0
+si=	2	0	6	47	9	so=	3	0	1	39	12	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	6	47	9	so=	3	0	1	39	12	63	2	dist=	0	weight=	6	sign=	0
+si=	2	0	6	47	9	so=	2	0	1	39	12	dist=	0	weight=	6	sign=	0
+si=	2	0	6	47	9	so=	3	0	1	39	4	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	6	47	9	so=	3	0	1	39	4	63	2	dist=	0	weight=	6	sign=	0
+si=	2	0	6	47	9	so=	2	0	1	39	4	dist=	0	weight=	6	sign=	0
+
+si=	3	0	5	39	12	47	9	so=	3	0	2	32	4	40	13	dist=	63	weight=	10	sign=	0
+si=	3	0	5	39	12	47	9	so=	3	0	2	32	4	40	5	dist=	63	weight=	10	sign=	0
+si=	3	0	5	39	12	47	9	so=	3	0	2	40	13	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	5	39	12	47	9	so=	2	0	2	40	13	dist=	63	weight=	10	sign=	0
+si=	3	0	5	39	12	47	9	so=	3	0	2	40	5	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	5	39	12	47	9	so=	2	0	2	40	5	dist=	63	weight=	10	sign=	0
+si=	3	0	5	39	12	47	9	so=	3	0	1	31	4	39	13	dist=	0	weight=	10	sign=	0
+si=	3	0	5	39	12	47	9	so=	3	0	1	31	4	39	5	dist=	0	weight=	10	sign=	0
+si=	3	0	5	39	12	47	9	so=	3	0	1	39	13	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	5	39	12	47	9	so=	3	0	1	39	13	63	2	dist=	0	weight=	8	sign=	0
+si=	3	0	5	39	12	47	9	so=	2	0	1	39	13	dist=	0	weight=	10	sign=	0
+si=	3	0	5	39	12	47	9	so=	3	0	1	39	5	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	5	39	12	47	9	so=	3	0	1	39	5	63	2	dist=	0	weight=	8	sign=	0
+si=	3	0	5	39	12	47	9	so=	2	0	1	39	5	dist=	0	weight=	10	sign=	0
+
+si=	2	0	5	47	9	so=	2	0	2	40	12	dist=	63	weight=	6	sign=	0
+si=	2	0	5	47	9	so=	2	0	2	40	4	dist=	63	weight=	6	sign=	0
+si=	2	0	5	47	9	so=	5	0	1	22	8	39	12	47	1	63	2	dist=	0	weight=	4	sign=	0
+si=	2	0	5	47	9	so=	5	0	1	22	8	39	4	47	1	63	2	dist=	0	weight=	4	sign=	0
+si=	2	0	5	47	9	so=	3	0	1	39	12	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	5	47	9	so=	3	0	1	39	12	63	2	dist=	0	weight=	4	sign=	0
+si=	2	0	5	47	9	so=	2	0	1	39	12	dist=	0	weight=	6	sign=	0
+si=	2	0	5	47	9	so=	3	0	1	39	4	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	5	47	9	so=	3	0	1	39	4	63	2	dist=	0	weight=	4	sign=	0
+si=	2	0	5	47	9	so=	2	0	1	39	4	dist=	0	weight=	6	sign=	0
+
+si=	3	0	4	7	6	54	9	so=	3	0	1	39	12	57	1	dist=	7	weight=	10	sign=	0
+si=	3	0	4	7	6	54	9	so=	3	0	1	39	4	57	1	dist=	7	weight=	10	sign=	0
+
+si=	3	0	4	8	9	25	6	so=	3	0	4	39	4	47	13	dist=	17	weight=	8	sign=	0
+si=	3	0	4	8	9	25	6	so=	2	0	4	47	13	dist=	17	weight=	8	sign=	0
+si=	3	0	4	8	9	25	6	so=	3	0	2	32	4	40	5	dist=	24	weight=	8	sign=	0
+si=	3	0	4	8	9	25	6	so=	2	0	2	40	5	dist=	24	weight=	8	sign=	0
+si=	3	0	4	8	9	25	6	so=	3	0	1	31	4	39	13	dist=	25	weight=	10	sign=	0
+si=	3	0	4	8	9	25	6	so=	3	0	1	31	4	39	5	dist=	25	weight=	10	sign=	0
+si=	3	0	4	8	9	25	6	so=	3	0	1	39	13	56	4	dist=	25	weight=	10	sign=	0
+si=	3	0	4	8	9	25	6	so=	3	0	1	39	13	63	2	dist=	25	weight=	10	sign=	0
+si=	3	0	4	8	9	25	6	so=	2	0	1	39	13	dist=	25	weight=	10	sign=	0
+si=	3	0	4	8	9	25	6	so=	3	0	1	39	5	56	4	dist=	25	weight=	10	sign=	0
+si=	3	0	4	8	9	25	6	so=	3	0	1	39	5	63	2	dist=	25	weight=	10	sign=	0
+si=	3	0	4	8	9	25	6	so=	2	0	1	39	5	dist=	25	weight=	10	sign=	0
+
+si=	3	0	4	8	9	25	5	so=	3	0	2	32	4	40	13	dist=	24	weight=	10	sign=	0
+si=	3	0	4	8	9	25	5	so=	3	0	2	32	4	40	5	dist=	24	weight=	10	sign=	0
+si=	3	0	4	8	9	25	5	so=	3	0	2	40	13	57	4	dist=	24	weight=	10	sign=	0
+si=	3	0	4	8	9	25	5	so=	2	0	2	40	13	dist=	24	weight=	10	sign=	0
+si=	3	0	4	8	9	25	5	so=	3	0	2	40	5	57	4	dist=	24	weight=	10	sign=	0
+si=	3	0	4	8	9	25	5	so=	2	0	2	40	5	dist=	24	weight=	10	sign=	0
+si=	3	0	4	8	9	25	5	so=	3	0	1	31	4	39	13	dist=	25	weight=	10	sign=	0
+si=	3	0	4	8	9	25	5	so=	3	0	1	31	4	39	5	dist=	25	weight=	10	sign=	0
+si=	3	0	4	8	9	25	5	so=	3	0	1	39	13	56	4	dist=	25	weight=	10	sign=	0
+si=	3	0	4	8	9	25	5	so=	3	0	1	39	13	63	2	dist=	25	weight=	8	sign=	0
+si=	3	0	4	8	9	25	5	so=	2	0	1	39	13	dist=	25	weight=	10	sign=	0
+si=	3	0	4	8	9	25	5	so=	3	0	1	39	5	56	4	dist=	25	weight=	10	sign=	0
+si=	3	0	4	8	9	25	5	so=	3	0	1	39	5	63	2	dist=	25	weight=	8	sign=	0
+si=	3	0	4	8	9	25	5	so=	2	0	1	39	5	dist=	25	weight=	10	sign=	0
+
+si=	3	0	4	8	5	55	9	so=	3	0	1	39	12	56	5	dist=	8	weight=	10	sign=	0
+si=	3	0	4	8	5	55	9	so=	3	0	1	39	12	56	1	dist=	8	weight=	10	sign=	0
+si=	3	0	4	8	5	55	9	so=	3	0	1	39	4	56	5	dist=	8	weight=	10	sign=	0
+si=	3	0	4	8	5	55	9	so=	3	0	1	39	4	56	1	dist=	8	weight=	10	sign=	0
+
+si=	3	0	4	22	12	47	9	so=	3	0	1	22	9	46	2	dist=	0	weight=	12	sign=	0
+si=	3	0	4	22	12	47	9	so=	3	0	1	24	2	42	1	dist=	22	weight=	12	sign=	0
+
+si=	3	0	4	22	12	47	8	so=	3	0	1	22	9	46	2	dist=	0	weight=	10	sign=	0
+
+si=	3	0	4	22	10	47	9	so=	3	0	1	22	9	46	2	dist=	0	weight=	10	sign=	0
+si=	3	0	4	22	10	47	9	so=	3	0	1	24	2	42	1	dist=	22	weight=	10	sign=	0
+
+si=	3	0	4	22	10	47	8	so=	3	0	1	22	9	46	2	dist=	0	weight=	8	sign=	0
+
+si=	3	0	4	22	9	47	9	so=	3	0	4	25	12	42	4	dist=	14	weight=	6	sign=	0
+si=	3	0	4	22	9	47	9	so=	3	0	1	14	4	39	12	dist=	0	weight=	8	sign=	0
+si=	3	0	4	22	9	47	9	so=	3	0	1	14	4	39	4	dist=	0	weight=	8	sign=	0
+
+si=	3	0	4	22	5	47	8	so=	3	0	1	22	9	46	2	dist=	0	weight=	10	sign=	0
+
+si=	3	0	4	25	12	42	4	so=	3	0	1	14	4	22	9	dist=	42	weight=	10	sign=	0
+si=	3	0	4	25	12	42	4	so=	3	0	1	22	9	56	4	dist=	42	weight=	10	sign=	0
+si=	3	0	4	25	12	42	4	so=	2	0	1	22	9	dist=	42	weight=	10	sign=	0
+
+si=	3	0	4	25	9	42	4	so=	3	0	1	22	9	46	2	dist=	42	weight=	12	sign=	0
+si=	3	0	4	25	9	42	4	so=	3	0	1	24	2	42	1	dist=	0	weight=	12	sign=	0
+
+si=	3	0	4	25	8	42	5	so=	3	0	1	22	9	46	2	dist=	42	weight=	10	sign=	0
+
+si=	3	0	4	25	8	42	4	so=	3	0	1	22	9	46	2	dist=	42	weight=	10	sign=	0
+
+si=	3	0	4	30	9	47	12	so=	3	0	1	22	12	47	1	dist=	0	weight=	10	sign=	0
+si=	3	0	4	30	9	47	12	so=	3	0	1	22	4	47	1	dist=	0	weight=	10	sign=	0
+
+si=	3	0	4	32	9	49	4	so=	3	0	1	24	12	41	4	dist=	0	weight=	8	sign=	0
+si=	3	0	4	32	9	49	4	so=	3	0	1	24	12	49	1	dist=	0	weight=	10	sign=	0
+si=	3	0	4	32	9	49	4	so=	3	0	1	24	4	49	1	dist=	0	weight=	10	sign=	0
+
+si=	3	0	4	39	6	47	9	so=	3	0	4	39	4	47	13	dist=	56	weight=	8	sign=	0
+si=	3	0	4	39	6	47	9	so=	2	0	4	47	13	dist=	56	weight=	8	sign=	0
+si=	3	0	4	39	6	47	9	so=	3	0	2	40	5	57	4	dist=	63	weight=	8	sign=	0
+si=	3	0	4	39	6	47	9	so=	3	0	1	31	4	39	13	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	6	47	9	so=	3	0	1	31	4	39	5	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	6	47	9	so=	3	0	1	39	13	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	6	47	9	so=	3	0	1	39	13	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	6	47	9	so=	2	0	1	39	13	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	6	47	9	so=	3	0	1	39	5	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	6	47	9	so=	3	0	1	39	5	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	6	47	9	so=	2	0	1	39	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	4	39	5	47	9	so=	3	0	4	39	4	47	13	dist=	56	weight=	8	sign=	0
+si=	3	0	4	39	5	47	9	so=	2	0	4	47	13	dist=	56	weight=	8	sign=	0
+si=	3	0	4	39	5	47	9	so=	3	0	2	40	5	57	4	dist=	63	weight=	8	sign=	0
+si=	3	0	4	39	5	47	9	so=	3	0	1	31	4	39	13	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	5	47	9	so=	3	0	1	31	4	39	5	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	5	47	9	so=	3	0	1	39	13	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	5	47	9	so=	3	0	1	39	13	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	5	47	9	so=	2	0	1	39	13	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	5	47	9	so=	3	0	1	39	5	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	5	47	9	so=	3	0	1	39	5	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	5	47	9	so=	2	0	1	39	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	4	39	4	47	13	so=	3	0	4	39	4	47	13	dist=	56	weight=	8	sign=	0
+si=	3	0	4	39	4	47	13	so=	2	0	4	47	13	dist=	56	weight=	8	sign=	0
+si=	3	0	4	39	4	47	13	so=	3	0	2	40	5	57	4	dist=	63	weight=	8	sign=	0
+si=	3	0	4	39	4	47	13	so=	3	0	1	31	4	39	13	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	13	so=	3	0	1	31	4	39	5	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	13	so=	3	0	1	39	13	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	13	so=	3	0	1	39	13	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	13	so=	2	0	1	39	13	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	13	so=	3	0	1	39	5	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	13	so=	3	0	1	39	5	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	13	so=	2	0	1	39	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	4	39	4	47	11	so=	3	0	4	39	4	47	13	dist=	56	weight=	8	sign=	0
+si=	3	0	4	39	4	47	11	so=	2	0	4	47	13	dist=	56	weight=	8	sign=	0
+si=	3	0	4	39	4	47	11	so=	3	0	2	40	5	57	4	dist=	63	weight=	8	sign=	0
+si=	3	0	4	39	4	47	11	so=	3	0	1	31	4	39	13	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	11	so=	3	0	1	31	4	39	5	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	11	so=	3	0	1	39	13	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	11	so=	3	0	1	39	13	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	11	so=	2	0	1	39	13	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	11	so=	3	0	1	39	5	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	11	so=	3	0	1	39	5	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	11	so=	2	0	1	39	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	4	39	4	47	9	so=	3	0	4	39	4	47	13	dist=	56	weight=	8	sign=	0
+si=	3	0	4	39	4	47	9	so=	2	0	4	47	13	dist=	56	weight=	8	sign=	0
+si=	3	0	4	39	4	47	9	so=	3	0	2	40	5	57	4	dist=	63	weight=	8	sign=	0
+si=	3	0	4	39	4	47	9	so=	3	0	1	31	4	39	13	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	9	so=	3	0	1	31	4	39	5	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	9	so=	3	0	1	39	13	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	9	so=	3	0	1	39	13	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	9	so=	2	0	1	39	13	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	9	so=	3	0	1	39	5	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	9	so=	3	0	1	39	5	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	4	39	4	47	9	so=	2	0	1	39	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	4	40	4	47	11	so=	3	0	1	32	4	39	14	dist=	0	weight=	8	sign=	0
+si=	3	0	4	40	4	47	11	so=	3	0	1	32	4	39	6	dist=	0	weight=	8	sign=	0
+si=	3	0	4	40	4	47	11	so=	3	0	1	39	14	40	1	dist=	0	weight=	10	sign=	0
+si=	3	0	4	40	4	47	11	so=	3	0	1	39	12	40	1	dist=	0	weight=	10	sign=	0
+si=	3	0	4	40	4	47	11	so=	3	0	1	39	6	40	1	dist=	0	weight=	10	sign=	0
+si=	3	0	4	40	4	47	11	so=	3	0	1	39	4	40	1	dist=	0	weight=	10	sign=	0
+
+si=	3	0	4	40	4	47	9	so=	3	0	1	32	4	39	14	dist=	0	weight=	8	sign=	0
+si=	3	0	4	40	4	47	9	so=	3	0	1	32	4	39	6	dist=	0	weight=	8	sign=	0
+si=	3	0	4	40	4	47	9	so=	3	0	1	39	14	40	1	dist=	0	weight=	10	sign=	0
+si=	3	0	4	40	4	47	9	so=	3	0	1	39	12	40	1	dist=	0	weight=	10	sign=	0
+si=	3	0	4	40	4	47	9	so=	3	0	1	39	6	40	1	dist=	0	weight=	10	sign=	0
+si=	3	0	4	40	4	47	9	so=	3	0	1	39	4	40	1	dist=	0	weight=	10	sign=	0
+
+si=	2	0	4	47	13	so=	3	0	4	30	8	47	8	dist=	56	weight=	4	sign=	0
+si=	2	0	4	47	13	so=	2	0	4	47	12	dist=	56	weight=	4	sign=	0
+si=	2	0	4	47	13	so=	3	0	2	23	8	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	4	47	13	so=	3	0	2	40	4	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	4	47	13	so=	3	0	1	39	12	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	4	47	13	so=	3	0	1	39	12	63	2	dist=	0	weight=	6	sign=	0
+si=	2	0	4	47	13	so=	2	0	1	39	12	dist=	0	weight=	6	sign=	0
+si=	2	0	4	47	13	so=	3	0	1	39	4	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	4	47	13	so=	3	0	1	39	4	63	2	dist=	0	weight=	6	sign=	0
+si=	2	0	4	47	13	so=	2	0	1	39	4	dist=	0	weight=	6	sign=	0
+
+si=	2	0	4	47	11	so=	2	0	4	47	12	dist=	56	weight=	4	sign=	0
+si=	2	0	4	47	11	so=	3	0	2	40	4	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	4	47	11	so=	4	0	1	9	4	16	2	39	8	dist=	47	weight=	4	sign=	0
+si=	2	0	4	47	11	so=	4	0	1	9	4	39	8	56	8	dist=	47	weight=	4	sign=	0
+si=	2	0	4	47	11	so=	3	0	1	39	12	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	4	47	11	so=	3	0	1	39	12	63	2	dist=	0	weight=	6	sign=	0
+si=	2	0	4	47	11	so=	2	0	1	39	12	dist=	0	weight=	6	sign=	0
+si=	2	0	4	47	11	so=	3	0	1	39	4	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	4	47	11	so=	3	0	1	39	4	63	2	dist=	0	weight=	6	sign=	0
+si=	2	0	4	47	11	so=	2	0	1	39	4	dist=	0	weight=	6	sign=	0
+
+si=	2	0	4	47	9	so=	2	0	4	47	12	dist=	56	weight=	4	sign=	0
+si=	2	0	4	47	9	so=	3	0	2	40	4	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	4	47	9	so=	5	0	1	9	4	16	2	39	8	56	4	dist=	47	weight=	4	sign=	0
+si=	2	0	4	47	9	so=	4	0	1	9	4	39	8	56	12	dist=	47	weight=	4	sign=	0
+si=	2	0	4	47	9	so=	3	0	1	39	12	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	4	47	9	so=	3	0	1	39	12	63	2	dist=	0	weight=	6	sign=	0
+si=	2	0	4	47	9	so=	2	0	1	39	12	dist=	0	weight=	6	sign=	0
+si=	2	0	4	47	9	so=	3	0	1	39	4	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	4	47	9	so=	3	0	1	39	4	63	2	dist=	0	weight=	6	sign=	0
+si=	2	0	4	47	9	so=	2	0	1	39	4	dist=	0	weight=	6	sign=	0
+
+si=	2	0	4	47	8	so=	4	0	2	10	4	40	8	57	12	dist=	46	weight=	4	sign=	0
+si=	2	0	4	47	8	so=	4	0	2	10	4	40	8	57	8	dist=	46	weight=	4	sign=	0
+si=	2	0	4	47	8	so=	5	0	2	23	8	40	4	47	2	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	4	47	8	so=	4	0	2	23	8	47	2	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	4	47	8	so=	6	0	1	9	4	16	2	39	8	56	4	63	2	dist=	47	weight=	4	sign=	0
+si=	2	0	4	47	8	so=	5	0	1	9	4	16	2	39	8	63	2	dist=	47	weight=	4	sign=	0
+si=	2	0	4	47	8	so=	5	0	1	9	4	39	8	56	12	63	2	dist=	47	weight=	4	sign=	0
+si=	2	0	4	47	8	so=	5	0	1	9	4	39	8	56	8	63	2	dist=	47	weight=	4	sign=	0
+
+si=	3	0	3	32	4	39	10	so=	3	0	1	7	9	24	4	dist=	32	weight=	8	sign=	0
+si=	3	0	3	32	4	39	10	so=	3	0	1	7	9	31	2	dist=	32	weight=	10	sign=	0
+si=	3	0	3	32	4	39	10	so=	3	0	1	24	2	57	1	dist=	39	weight=	10	sign=	0
+si=	3	0	3	32	4	39	10	so=	3	0	1	32	1	39	1	dist=	0	weight=	8	sign=	0
+
+si=	3	0	3	39	12	56	4	so=	3	0	5	39	12	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	3	39	12	56	4	so=	2	0	5	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	3	39	12	56	4	so=	3	0	4	8	9	25	5	dist=	31	weight=	10	sign=	0
+si=	3	0	3	39	12	56	4	so=	3	0	4	8	5	55	9	dist=	48	weight=	10	sign=	0
+si=	3	0	3	39	12	56	4	so=	3	0	2	40	9	57	5	dist=	63	weight=	12	sign=	0
+si=	3	0	3	39	12	56	4	so=	3	0	1	7	2	47	9	dist=	56	weight=	12	sign=	0
+si=	3	0	3	39	12	56	4	so=	3	0	1	17	5	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	3	39	12	56	4	so=	3	0	1	17	1	24	2	dist=	39	weight=	12	sign=	0
+
+si=	3	0	3	39	12	57	4	so=	3	0	4	7	6	54	9	dist=	49	weight=	8	sign=	0
+si=	3	0	3	39	12	57	4	so=	3	0	1	39	1	57	1	dist=	0	weight=	10	sign=	0
+si=	3	0	3	39	12	57	4	so=	3	0	1	46	9	63	6	dist=	57	weight=	10	sign=	0
+si=	3	0	3	39	12	57	4	so=	3	0	1	46	9	63	4	dist=	57	weight=	10	sign=	0
+
+si=	2	0	3	39	12	so=	3	0	4	22	8	47	8	dist=	56	weight=	4	sign=	0
+si=	2	0	3	39	12	so=	3	0	4	39	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	3	39	12	so=	2	0	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	3	39	12	so=	4	0	2	1	8	18	4	57	4	dist=	38	weight=	4	sign=	0
+si=	2	0	3	39	12	so=	3	0	2	32	4	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	3	39	12	so=	3	0	2	40	9	57	4	dist=	63	weight=	8	sign=	0
+si=	2	0	3	39	12	so=	2	0	2	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	3	39	12	so=	2	0	1	14	8	dist=	0	weight=	4	sign=	0
+si=	2	0	3	39	12	so=	3	0	1	17	4	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	3	39	12	so=	3	0	1	24	2	56	4	dist=	39	weight=	8	sign=	0
+si=	2	0	3	39	12	so=	2	0	1	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	3	39	12	so=	3	0	1	31	4	38	2	dist=	0	weight=	4	sign=	0
+si=	2	0	3	39	12	so=	3	0	1	31	4	39	1	dist=	0	weight=	6	sign=	0
+si=	2	0	3	39	12	so=	3	0	1	39	9	63	2	dist=	0	weight=	8	sign=	0
+si=	2	0	3	39	12	so=	3	0	1	39	1	63	2	dist=	0	weight=	8	sign=	0
+si=	2	0	3	39	12	so=	2	0	1	39	1	dist=	0	weight=	6	sign=	0
+
+si=	3	0	3	39	10	40	9	so=	3	0	4	39	4	47	11	dist=	56	weight=	8	sign=	0
+si=	3	0	3	39	10	40	9	so=	3	0	4	40	4	47	11	dist=	56	weight=	8	sign=	0
+si=	3	0	3	39	10	40	9	so=	3	0	4	40	4	47	9	dist=	56	weight=	6	sign=	0
+si=	3	0	3	39	10	40	9	so=	2	0	4	47	11	dist=	56	weight=	8	sign=	0
+si=	3	0	3	39	10	40	9	so=	3	0	2	32	4	40	11	dist=	63	weight=	10	sign=	0
+si=	3	0	3	39	10	40	9	so=	3	0	2	32	4	40	3	dist=	63	weight=	10	sign=	0
+si=	3	0	3	39	10	40	9	so=	3	0	2	40	11	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	3	39	10	40	9	so=	2	0	2	40	11	dist=	63	weight=	10	sign=	0
+si=	3	0	3	39	10	40	9	so=	3	0	2	40	3	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	3	39	10	40	9	so=	2	0	2	40	3	dist=	63	weight=	10	sign=	0
+si=	3	0	3	39	10	40	9	so=	3	0	1	23	2	63	11	dist=	40	weight=	10	sign=	0
+si=	3	0	3	39	10	40	9	so=	3	0	1	23	2	63	3	dist=	40	weight=	10	sign=	0
+si=	3	0	3	39	10	40	9	so=	3	0	1	31	4	39	3	dist=	0	weight=	8	sign=	0
+si=	3	0	3	39	10	40	9	so=	3	0	1	32	4	39	3	dist=	0	weight=	8	sign=	0
+si=	3	0	3	39	10	40	9	so=	3	0	1	39	11	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	3	39	10	40	9	so=	3	0	1	39	3	40	1	dist=	0	weight=	8	sign=	0
+si=	3	0	3	39	10	40	9	so=	3	0	1	39	3	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	3	39	10	40	9	so=	2	0	1	39	3	dist=	0	weight=	8	sign=	0
+
+si=	3	0	3	39	10	56	4	so=	3	0	5	39	12	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	3	39	10	56	4	so=	2	0	5	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	3	39	10	56	4	so=	3	0	4	8	9	25	5	dist=	31	weight=	8	sign=	0
+si=	3	0	3	39	10	56	4	so=	3	0	4	8	5	55	9	dist=	48	weight=	8	sign=	0
+si=	3	0	3	39	10	56	4	so=	3	0	2	40	9	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	3	39	10	56	4	so=	3	0	1	7	2	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	3	39	10	56	4	so=	3	0	1	17	5	24	2	dist=	39	weight=	10	sign=	0
+si=	3	0	3	39	10	56	4	so=	3	0	1	17	1	24	2	dist=	39	weight=	10	sign=	0
+
+si=	3	0	3	39	10	57	4	so=	3	0	4	7	6	54	9	dist=	49	weight=	6	sign=	0
+si=	3	0	3	39	10	57	4	so=	3	0	1	39	1	57	1	dist=	0	weight=	8	sign=	0
+si=	3	0	3	39	10	57	4	so=	3	0	1	46	9	63	6	dist=	57	weight=	8	sign=	0
+si=	3	0	3	39	10	57	4	so=	3	0	1	46	9	63	4	dist=	57	weight=	8	sign=	0
+
+si=	2	0	3	39	10	so=	3	0	4	39	4	47	9	dist=	56	weight=	4	sign=	0
+si=	2	0	3	39	10	so=	2	0	4	47	9	dist=	56	weight=	4	sign=	0
+si=	2	0	3	39	10	so=	4	0	2	1	9	18	4	57	4	dist=	38	weight=	4	sign=	0
+si=	2	0	3	39	10	so=	3	0	2	1	9	18	4	dist=	38	weight=	4	sign=	0
+si=	2	0	3	39	10	so=	3	0	2	32	4	40	9	dist=	63	weight=	6	sign=	0
+si=	2	0	3	39	10	so=	3	0	2	40	9	57	4	dist=	63	weight=	6	sign=	0
+si=	2	0	3	39	10	so=	2	0	2	40	9	dist=	63	weight=	6	sign=	0
+si=	2	0	3	39	10	so=	3	0	1	17	4	24	2	dist=	39	weight=	6	sign=	0
+si=	2	0	3	39	10	so=	3	0	1	24	2	56	4	dist=	39	weight=	6	sign=	0
+si=	2	0	3	39	10	so=	2	0	1	24	2	dist=	39	weight=	6	sign=	0
+si=	2	0	3	39	10	so=	4	0	1	31	4	38	2	39	1	dist=	0	weight=	4	sign=	0
+si=	2	0	3	39	10	so=	3	0	1	31	4	39	1	dist=	0	weight=	4	sign=	0
+si=	2	0	3	39	10	so=	3	0	1	38	2	39	1	dist=	0	weight=	4	sign=	0
+si=	2	0	3	39	10	so=	3	0	1	39	9	63	2	dist=	0	weight=	6	sign=	0
+si=	2	0	3	39	10	so=	3	0	1	39	1	63	2	dist=	0	weight=	6	sign=	0
+si=	2	0	3	39	10	so=	2	0	1	39	1	dist=	0	weight=	4	sign=	0
+
+si=	3	0	3	39	4	56	4	so=	3	0	5	39	12	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	3	39	4	56	4	so=	2	0	5	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	3	39	4	56	4	so=	3	0	4	8	9	25	5	dist=	31	weight=	10	sign=	0
+si=	3	0	3	39	4	56	4	so=	3	0	4	8	5	55	9	dist=	48	weight=	10	sign=	0
+si=	3	0	3	39	4	56	4	so=	3	0	2	40	9	57	5	dist=	63	weight=	12	sign=	0
+si=	3	0	3	39	4	56	4	so=	3	0	1	7	2	47	9	dist=	56	weight=	12	sign=	0
+si=	3	0	3	39	4	56	4	so=	3	0	1	17	5	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	3	39	4	56	4	so=	3	0	1	17	1	24	2	dist=	39	weight=	12	sign=	0
+
+si=	3	0	3	39	4	57	4	so=	3	0	4	7	6	54	9	dist=	49	weight=	8	sign=	0
+si=	3	0	3	39	4	57	4	so=	3	0	1	39	1	57	1	dist=	0	weight=	10	sign=	0
+si=	3	0	3	39	4	57	4	so=	3	0	1	46	9	63	6	dist=	57	weight=	10	sign=	0
+si=	3	0	3	39	4	57	4	so=	3	0	1	46	9	63	4	dist=	57	weight=	10	sign=	0
+
+si=	2	0	3	39	4	so=	4	0	4	22	8	39	4	47	8	dist=	56	weight=	4	sign=	0
+si=	2	0	3	39	4	so=	3	0	4	39	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	3	39	4	so=	2	0	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	3	39	4	so=	4	0	2	1	8	18	4	57	4	dist=	38	weight=	4	sign=	0
+si=	2	0	3	39	4	so=	3	0	2	32	4	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	3	39	4	so=	3	0	2	40	9	57	4	dist=	63	weight=	8	sign=	0
+si=	2	0	3	39	4	so=	2	0	2	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	3	39	4	so=	3	0	1	14	8	31	4	dist=	0	weight=	4	sign=	0
+si=	2	0	3	39	4	so=	3	0	1	17	4	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	3	39	4	so=	3	0	1	24	2	56	4	dist=	39	weight=	8	sign=	0
+si=	2	0	3	39	4	so=	2	0	1	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	3	39	4	so=	3	0	1	31	4	38	2	dist=	0	weight=	4	sign=	0
+si=	2	0	3	39	4	so=	3	0	1	31	4	39	1	dist=	0	weight=	6	sign=	0
+si=	2	0	3	39	4	so=	3	0	1	39	9	63	2	dist=	0	weight=	8	sign=	0
+si=	2	0	3	39	4	so=	3	0	1	39	1	63	2	dist=	0	weight=	8	sign=	0
+si=	2	0	3	39	4	so=	2	0	1	39	1	dist=	0	weight=	6	sign=	0
+
+si=	3	0	3	48	4	56	5	so=	3	0	1	48	5	56	1	dist=	0	weight=	10	sign=	0
+
+si=	3	0	3	49	4	56	6	so=	3	0	1	49	1	56	1	dist=	0	weight=	10	sign=	0
+
+si=	3	0	3	49	4	57	5	so=	3	0	1	49	5	57	1	dist=	0	weight=	10	sign=	0
+
+si=	3	0	3	50	4	57	6	so=	3	0	1	50	1	57	1	dist=	0	weight=	10	sign=	0
+
+si=	3	0	3	55	4	63	3	so=	3	0	1	8	3	56	4	dist=	55	weight=	10	sign=	0
+si=	3	0	3	55	4	63	3	so=	2	0	1	8	3	dist=	55	weight=	10	sign=	0
+si=	3	0	3	55	4	63	3	so=	3	0	1	55	1	63	3	dist=	0	weight=	10	sign=	0
+si=	3	0	3	55	4	63	3	so=	3	0	1	55	1	63	1	dist=	0	weight=	8	sign=	0
+
+si=	3	0	3	56	6	57	5	so=	3	0	1	49	4	56	3	dist=	0	weight=	10	sign=	0
+si=	3	0	3	56	6	57	5	so=	3	0	1	56	3	57	1	dist=	0	weight=	8	sign=	0
+si=	3	0	3	56	6	57	5	so=	2	0	1	56	3	dist=	0	weight=	10	sign=	0
+si=	3	0	3	56	6	57	5	so=	3	0	1	56	1	57	1	dist=	0	weight=	10	sign=	0
+
+si=	3	0	3	56	6	57	4	so=	3	0	1	49	4	56	3	dist=	0	weight=	8	sign=	0
+si=	3	0	3	56	6	57	4	so=	3	0	1	56	3	57	1	dist=	0	weight=	10	sign=	0
+si=	3	0	3	56	6	57	4	so=	3	0	1	56	1	57	1	dist=	0	weight=	10	sign=	0
+
+si=	2	0	3	56	6	so=	4	0	4	39	8	47	8	56	4	dist=	56	weight=	4	sign=	0
+si=	2	0	3	56	6	so=	3	0	2	1	4	48	8	dist=	55	weight=	4	sign=	0
+si=	2	0	3	56	6	so=	3	0	1	31	8	48	4	dist=	0	weight=	4	sign=	0
+si=	2	0	3	56	6	so=	3	0	1	48	4	56	1	dist=	0	weight=	6	sign=	0
+si=	2	0	3	56	6	so=	2	0	1	55	2	dist=	0	weight=	4	sign=	0
+si=	2	0	3	56	6	so=	2	0	1	56	1	dist=	0	weight=	6	sign=	0
+
+si=	3	0	3	56	5	57	4	so=	3	0	1	49	4	56	3	dist=	0	weight=	8	sign=	0
+si=	3	0	3	56	5	57	4	so=	3	0	1	56	3	57	1	dist=	0	weight=	10	sign=	0
+si=	3	0	3	56	5	57	4	so=	3	0	1	56	1	57	1	dist=	0	weight=	10	sign=	0
+
+si=	2	0	3	56	5	so=	4	0	2	1	5	40	8	48	8	dist=	55	weight=	4	sign=	0
+si=	2	0	3	56	5	so=	3	0	2	1	5	48	8	dist=	55	weight=	4	sign=	0
+si=	2	0	3	56	5	so=	4	0	1	31	8	55	2	56	1	dist=	0	weight=	4	sign=	0
+si=	2	0	3	56	5	so=	3	0	1	48	4	56	1	dist=	0	weight=	6	sign=	0
+si=	2	0	3	56	5	so=	3	0	1	55	2	56	1	dist=	0	weight=	4	sign=	0
+si=	2	0	3	56	5	so=	2	0	1	56	1	dist=	0	weight=	6	sign=	0
+
+si=	3	0	3	56	4	57	6	so=	3	0	1	56	3	57	1	dist=	0	weight=	10	sign=	0
+si=	3	0	3	56	4	57	6	so=	2	0	1	56	3	dist=	0	weight=	8	sign=	0
+si=	3	0	3	56	4	57	6	so=	3	0	1	56	1	57	1	dist=	0	weight=	10	sign=	0
+
+si=	3	0	3	56	4	57	5	so=	3	0	1	49	4	56	3	dist=	0	weight=	10	sign=	0
+si=	3	0	3	56	4	57	5	so=	3	0	1	56	3	57	1	dist=	0	weight=	8	sign=	0
+si=	3	0	3	56	4	57	5	so=	2	0	1	56	3	dist=	0	weight=	10	sign=	0
+si=	3	0	3	56	4	57	5	so=	3	0	1	56	1	57	1	dist=	0	weight=	10	sign=	0
+
+si=	3	0	3	56	4	57	4	so=	3	0	1	49	4	56	3	dist=	0	weight=	8	sign=	0
+si=	3	0	3	56	4	57	4	so=	3	0	1	56	3	57	1	dist=	0	weight=	10	sign=	0
+si=	3	0	3	56	4	57	4	so=	3	0	1	56	1	57	1	dist=	0	weight=	10	sign=	0
+
+si=	3	0	3	56	4	63	3	so=	3	0	3	49	4	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	3	56	4	63	3	so=	2	0	3	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	3	56	4	63	3	so=	3	0	1	7	3	56	4	dist=	56	weight=	10	sign=	0
+si=	3	0	3	56	4	63	3	so=	2	0	1	7	3	dist=	56	weight=	10	sign=	0
+si=	3	0	3	56	4	63	3	so=	3	0	1	56	5	63	3	dist=	0	weight=	10	sign=	0
+si=	3	0	3	56	4	63	3	so=	3	0	1	56	1	63	3	dist=	0	weight=	10	sign=	0
+si=	3	0	3	56	4	63	3	so=	3	0	1	56	1	63	1	dist=	0	weight=	8	sign=	0
+
+si=	2	0	3	56	4	so=	4	0	4	39	8	47	8	56	4	dist=	56	weight=	4	sign=	0
+si=	2	0	3	56	4	so=	4	0	2	1	4	48	8	57	4	dist=	55	weight=	4	sign=	0
+si=	2	0	3	56	4	so=	3	0	1	31	8	48	4	dist=	0	weight=	4	sign=	0
+si=	2	0	3	56	4	so=	3	0	1	48	4	55	2	dist=	0	weight=	4	sign=	0
+si=	2	0	3	56	4	so=	3	0	1	48	4	56	1	dist=	0	weight=	6	sign=	0
+si=	2	0	3	56	4	so=	2	0	1	56	1	dist=	0	weight=	6	sign=	0
+
+si=	2	0	3	57	6	so=	2	0	6	47	8	dist=	56	weight=	4	sign=	0
+si=	2	0	3	57	6	so=	4	0	4	40	8	47	8	57	4	dist=	56	weight=	4	sign=	0
+si=	2	0	3	57	6	so=	3	0	1	32	8	49	4	dist=	0	weight=	4	sign=	0
+si=	2	0	3	57	6	so=	3	0	1	49	4	57	1	dist=	0	weight=	6	sign=	0
+si=	2	0	3	57	6	so=	2	0	1	56	2	dist=	0	weight=	4	sign=	0
+si=	2	0	3	57	6	so=	2	0	1	57	1	dist=	0	weight=	6	sign=	0
+
+si=	2	0	3	57	5	so=	4	0	1	32	8	56	2	57	1	dist=	0	weight=	4	sign=	0
+si=	2	0	3	57	5	so=	4	0	1	39	8	46	8	63	6	dist=	57	weight=	4	sign=	0
+si=	2	0	3	57	5	so=	3	0	1	46	8	63	6	dist=	57	weight=	4	sign=	0
+si=	2	0	3	57	5	so=	3	0	1	49	4	57	1	dist=	0	weight=	6	sign=	0
+si=	2	0	3	57	5	so=	3	0	1	56	2	57	1	dist=	0	weight=	4	sign=	0
+si=	2	0	3	57	5	so=	2	0	1	57	1	dist=	0	weight=	6	sign=	0
+
+si=	3	0	3	57	4	63	3	so=	3	0	3	50	4	57	6	dist=	63	weight=	8	sign=	0
+si=	3	0	3	57	4	63	3	so=	3	0	1	6	3	63	6	dist=	57	weight=	10	sign=	0
+si=	3	0	3	57	4	63	3	so=	3	0	1	6	3	63	4	dist=	57	weight=	10	sign=	0
+si=	3	0	3	57	4	63	3	so=	3	0	1	57	1	63	3	dist=	0	weight=	10	sign=	0
+si=	3	0	3	57	4	63	3	so=	3	0	1	57	1	63	1	dist=	0	weight=	8	sign=	0
+
+si=	2	0	3	57	4	so=	3	0	4	7	6	54	8	dist=	49	weight=	4	sign=	0
+si=	2	0	3	57	4	so=	4	0	4	40	8	47	8	57	4	dist=	56	weight=	4	sign=	0
+si=	2	0	3	57	4	so=	3	0	1	32	8	49	4	dist=	0	weight=	4	sign=	0
+si=	2	0	3	57	4	so=	3	0	1	49	4	56	2	dist=	0	weight=	4	sign=	0
+si=	2	0	3	57	4	so=	3	0	1	49	4	57	1	dist=	0	weight=	6	sign=	0
+si=	2	0	3	57	4	so=	2	0	1	57	1	dist=	0	weight=	6	sign=	0
+
+si=	2	0	3	63	3	so=	4	0	4	46	8	47	8	63	4	dist=	56	weight=	4	sign=	0
+si=	2	0	3	63	3	so=	2	0	3	57	4	dist=	63	weight=	6	sign=	0
+si=	2	0	3	63	3	so=	1	0	3	dist=	63	weight=	6	sign=	0
+si=	2	0	3	63	3	so=	3	0	1	38	8	55	4	dist=	0	weight=	4	sign=	0
+si=	2	0	3	63	3	so=	3	0	1	40	8	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	3	63	3	so=	3	0	1	56	4	63	3	dist=	0	weight=	6	sign=	0
+si=	2	0	3	63	3	so=	2	0	1	63	3	dist=	0	weight=	6	sign=	0
+si=	2	0	3	63	3	so=	2	0	1	63	1	dist=	0	weight=	4	sign=	0
+
+si=	1	0	3	so=	2	0	4	47	8	dist=	56	weight=	2	sign=	0
+si=	1	0	3	so=	3	0	2	40	8	57	4	dist=	63	weight=	4	sign=	0
+si=	1	0	3	so=	2	0	2	40	8	dist=	63	weight=	4	sign=	0
+si=	1	0	3	so=	2	0	2	57	4	dist=	63	weight=	4	sign=	0
+si=	1	0	3	so=	1	0	2	dist=	63	weight=	4	sign=	0
+si=	1	0	3	so=	4	0	1	39	8	56	4	63	2	dist=	0	weight=	4	sign=	0
+si=	1	0	3	so=	3	0	1	39	8	63	2	dist=	0	weight=	4	sign=	0
+si=	1	0	3	so=	3	0	1	56	4	63	2	dist=	0	weight=	4	sign=	0
+si=	1	0	3	so=	2	0	1	63	2	dist=	0	weight=	4	sign=	0
+si=	1	0	3	so=	1	0	1	dist=	0	weight=	2	sign=	0
+
+si=	3	0	2	1	3	40	12	so=	3	0	3	32	4	39	10	dist=	0	weight=	8	sign=	0
+si=	3	0	2	1	3	40	12	so=	3	0	3	39	10	40	9	dist=	0	weight=	10	sign=	0
+si=	3	0	2	1	3	40	12	so=	3	0	1	24	3	63	10	dist=	40	weight=	10	sign=	0
+
+si=	3	0	2	1	3	40	9	so=	3	0	3	32	4	39	10	dist=	0	weight=	10	sign=	0
+si=	3	0	2	1	3	40	9	so=	3	0	3	39	10	40	9	dist=	0	weight=	10	sign=	0
+si=	3	0	2	1	3	40	9	so=	3	0	3	39	10	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	2	1	3	40	9	so=	3	0	3	39	10	57	4	dist=	0	weight=	10	sign=	0
+si=	3	0	2	1	3	40	9	so=	2	0	3	39	10	dist=	0	weight=	10	sign=	0
+si=	3	0	2	1	3	40	9	so=	3	0	2	39	10	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	2	1	3	40	9	so=	3	0	1	24	3	63	10	dist=	40	weight=	10	sign=	0
+si=	3	0	2	1	3	40	9	so=	3	0	1	38	10	63	3	dist=	1	weight=	10	sign=	0
+si=	3	0	2	1	3	40	9	so=	3	0	1	38	10	63	1	dist=	1	weight=	8	sign=	0
+
+si=	3	0	2	1	3	40	4	so=	3	0	3	32	4	39	10	dist=	0	weight=	8	sign=	0
+si=	3	0	2	1	3	40	4	so=	3	0	3	39	10	40	9	dist=	0	weight=	10	sign=	0
+si=	3	0	2	1	3	40	4	so=	3	0	1	24	3	63	10	dist=	40	weight=	10	sign=	0
+
+si=	3	0	2	15	12	40	9	so=	3	0	1	15	9	39	10	dist=	0	weight=	10	sign=	0
+
+si=	3	0	2	15	12	40	8	so=	3	0	1	15	9	39	10	dist=	0	weight=	8	sign=	0
+
+si=	2	0	2	15	12	so=	5	0	2	25	8	42	4	49	2	57	4	dist=	14	weight=	4	sign=	0
+si=	2	0	2	15	12	so=	4	0	2	25	8	49	2	57	4	dist=	14	weight=	4	sign=	0
+si=	2	0	2	15	12	so=	4	0	2	40	8	55	8	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	2	15	12	so=	3	0	2	40	8	55	8	dist=	63	weight=	4	sign=	0
+si=	2	0	2	15	12	so=	5	0	1	7	4	14	2	39	8	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	15	12	so=	4	0	1	7	4	14	2	39	8	dist=	0	weight=	4	sign=	0
+si=	2	0	2	15	12	so=	3	0	1	24	8	48	2	dist=	15	weight=	6	sign=	0
+si=	2	0	2	15	12	so=	4	0	1	39	8	54	8	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	15	12	so=	3	0	1	39	8	54	8	dist=	0	weight=	4	sign=	0
+
+si=	3	0	2	15	10	40	9	so=	3	0	1	15	9	39	10	dist=	0	weight=	8	sign=	0
+
+si=	3	0	2	15	10	40	8	so=	3	0	1	15	9	39	10	dist=	0	weight=	6	sign=	0
+
+si=	2	0	2	15	10	so=	6	0	1	24	8	41	4	48	2	56	4	63	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	10	so=	5	0	1	24	8	41	4	48	2	56	4	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	10	so=	5	0	1	24	8	41	4	48	2	63	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	10	so=	4	0	1	24	8	41	4	48	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	10	so=	6	0	1	24	8	41	4	49	1	56	4	63	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	10	so=	5	0	1	24	8	41	4	49	1	56	4	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	10	so=	5	0	1	24	8	41	4	49	1	63	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	10	so=	4	0	1	24	8	41	4	49	1	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	10	so=	5	0	1	24	8	48	2	56	4	63	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	10	so=	4	0	1	24	8	48	2	56	4	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	10	so=	4	0	1	24	8	48	2	63	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	10	so=	3	0	1	24	8	48	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	10	so=	5	0	1	24	8	49	1	56	4	63	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	10	so=	4	0	1	24	8	49	1	56	4	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	10	so=	4	0	1	24	8	49	1	63	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	10	so=	3	0	1	24	8	49	1	dist=	15	weight=	4	sign=	0
+
+si=	3	0	2	15	9	40	9	so=	3	0	1	7	4	39	10	dist=	0	weight=	8	sign=	0
+
+si=	3	0	2	15	5	40	8	so=	3	0	1	15	9	39	10	dist=	0	weight=	8	sign=	0
+
+si=	2	0	2	15	5	so=	6	0	1	24	8	39	8	41	4	48	2	63	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	5	so=	6	0	1	24	8	39	8	41	4	49	1	63	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	5	so=	5	0	1	24	8	39	8	48	2	63	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	5	so=	5	0	1	24	8	39	8	49	1	63	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	5	so=	5	0	1	24	8	41	4	48	2	63	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	5	so=	5	0	1	24	8	41	4	49	1	63	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	5	so=	4	0	1	24	8	48	2	63	2	dist=	15	weight=	4	sign=	0
+si=	2	0	2	15	5	so=	3	0	1	24	8	48	2	dist=	15	weight=	6	sign=	0
+si=	2	0	2	15	5	so=	4	0	1	24	8	49	1	63	2	dist=	15	weight=	4	sign=	0
+
+si=	3	0	2	15	4	40	9	so=	3	0	1	15	9	39	10	dist=	0	weight=	10	sign=	0
+
+si=	3	0	2	15	4	40	8	so=	3	0	1	15	9	39	10	dist=	0	weight=	8	sign=	0
+
+si=	2	0	2	15	4	so=	5	0	2	8	4	40	8	55	8	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	2	15	4	so=	4	0	2	8	4	40	8	55	8	dist=	63	weight=	4	sign=	0
+si=	2	0	2	15	4	so=	5	0	2	25	8	42	4	49	2	57	4	dist=	14	weight=	4	sign=	0
+si=	2	0	2	15	4	so=	4	0	2	25	8	49	2	57	4	dist=	14	weight=	4	sign=	0
+si=	2	0	2	15	4	so=	5	0	1	7	4	14	2	39	8	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	15	4	so=	4	0	1	7	4	14	2	39	8	dist=	0	weight=	4	sign=	0
+si=	2	0	2	15	4	so=	5	0	1	7	4	39	8	54	8	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	15	4	so=	4	0	1	7	4	39	8	54	8	dist=	0	weight=	4	sign=	0
+si=	2	0	2	15	4	so=	3	0	1	24	8	48	2	dist=	15	weight=	6	sign=	0
+
+si=	3	0	2	16	3	40	8	so=	3	0	1	15	10	39	10	dist=	0	weight=	8	sign=	0
+
+si=	3	0	2	25	2	40	9	so=	3	0	2	15	10	40	9	dist=	24	weight=	8	sign=	0
+si=	3	0	2	25	2	40	9	so=	3	0	1	14	10	39	9	dist=	25	weight=	8	sign=	0
+
+si=	3	0	2	32	6	40	9	so=	3	0	1	32	5	39	10	dist=	0	weight=	10	sign=	0
+si=	3	0	2	32	6	40	9	so=	3	0	1	32	1	39	10	dist=	0	weight=	10	sign=	0
+
+si=	3	0	2	32	5	40	9	so=	3	0	1	32	5	39	10	dist=	0	weight=	10	sign=	0
+si=	3	0	2	32	5	40	9	so=	3	0	1	32	1	39	10	dist=	0	weight=	10	sign=	0
+
+si=	3	0	2	32	4	40	13	so=	3	0	1	32	5	39	10	dist=	0	weight=	10	sign=	0
+si=	3	0	2	32	4	40	13	so=	3	0	1	32	1	39	10	dist=	0	weight=	10	sign=	0
+
+si=	3	0	2	32	4	40	11	so=	3	0	1	32	5	39	10	dist=	0	weight=	10	sign=	0
+si=	3	0	2	32	4	40	11	so=	3	0	1	32	1	39	10	dist=	0	weight=	10	sign=	0
+
+si=	3	0	2	32	4	40	9	so=	3	0	1	32	5	39	10	dist=	0	weight=	10	sign=	0
+si=	3	0	2	32	4	40	9	so=	3	0	1	32	1	39	10	dist=	0	weight=	10	sign=	0
+
+si=	3	0	2	32	4	40	5	so=	3	0	1	32	5	39	10	dist=	0	weight=	10	sign=	0
+si=	3	0	2	32	4	40	5	so=	3	0	1	32	1	39	10	dist=	0	weight=	10	sign=	0
+
+si=	3	0	2	32	4	40	3	so=	3	0	1	32	5	39	10	dist=	0	weight=	10	sign=	0
+si=	3	0	2	32	4	40	3	so=	3	0	1	32	1	39	10	dist=	0	weight=	10	sign=	0
+
+si=	3	0	2	39	12	56	4	so=	3	0	2	40	9	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	2	39	12	56	4	so=	3	0	1	7	2	47	9	dist=	56	weight=	10	sign=	0
+
+si=	3	0	2	39	10	63	2	so=	3	0	3	39	10	40	9	dist=	63	weight=	6	sign=	0
+
+si=	3	0	2	39	9	63	2	so=	3	0	3	39	10	40	9	dist=	63	weight=	8	sign=	0
+
+si=	3	0	2	39	4	63	2	so=	3	0	3	39	10	40	9	dist=	63	weight=	8	sign=	0
+
+si=	3	0	2	40	13	57	4	so=	3	0	1	39	10	57	1	dist=	0	weight=	10	sign=	0
+
+si=	2	0	2	40	13	so=	4	0	2	16	8	40	8	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	13	so=	3	0	2	16	8	40	8	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	13	so=	4	0	2	33	4	40	8	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	13	so=	3	0	2	33	4	40	8	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	13	so=	2	0	2	40	10	dist=	63	weight=	6	sign=	0
+si=	2	0	2	40	13	so=	4	0	1	15	8	39	8	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	13	so=	3	0	1	15	8	39	8	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	13	so=	3	0	1	32	4	39	10	dist=	0	weight=	6	sign=	0
+si=	2	0	2	40	13	so=	4	0	1	32	4	39	8	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	13	so=	3	0	1	32	4	39	8	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	13	so=	3	0	1	39	10	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	2	40	13	so=	2	0	1	39	10	dist=	0	weight=	6	sign=	0
+
+si=	2	0	2	40	12	so=	4	0	2	16	8	40	8	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	12	so=	3	0	2	16	8	40	8	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	12	so=	4	0	2	33	4	40	10	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	12	so=	3	0	2	33	4	40	10	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	12	so=	4	0	1	15	8	39	8	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	12	so=	3	0	1	15	8	39	8	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	12	so=	3	0	1	23	2	63	10	dist=	40	weight=	6	sign=	0
+si=	2	0	2	40	12	so=	4	0	1	32	4	39	10	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	12	so=	3	0	1	32	4	39	10	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	12	so=	3	0	1	39	10	40	1	dist=	0	weight=	6	sign=	0
+
+si=	3	0	2	40	11	57	4	so=	3	0	1	39	10	57	1	dist=	0	weight=	10	sign=	0
+
+si=	2	0	2	40	11	so=	4	0	2	33	4	40	8	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	11	so=	3	0	2	33	4	40	8	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	11	so=	2	0	2	40	10	dist=	63	weight=	6	sign=	0
+si=	2	0	2	40	11	so=	5	0	1	16	4	23	2	39	8	63	8	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	11	so=	5	0	1	16	4	24	1	39	8	63	8	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	11	so=	4	0	1	23	2	39	8	63	8	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	11	so=	3	0	1	23	2	63	10	dist=	40	weight=	6	sign=	0
+si=	2	0	2	40	11	so=	4	0	1	24	1	39	8	63	8	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	11	so=	3	0	1	32	4	39	10	dist=	0	weight=	6	sign=	0
+si=	2	0	2	40	11	so=	4	0	1	32	4	39	8	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	11	so=	3	0	1	32	4	39	8	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	11	so=	3	0	1	39	10	40	1	dist=	0	weight=	6	sign=	0
+si=	2	0	2	40	11	so=	3	0	1	39	10	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	2	40	11	so=	2	0	1	39	10	dist=	0	weight=	6	sign=	0
+
+si=	3	0	2	40	10	41	3	so=	3	0	2	40	10	41	3	dist=	63	weight=	8	sign=	0
+si=	3	0	2	40	10	41	3	so=	3	0	1	39	10	40	3	dist=	0	weight=	8	sign=	0
+
+si=	2	0	2	40	10	so=	5	0	1	16	4	23	2	56	4	63	10	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	10	so=	5	0	1	16	4	23	2	56	4	63	8	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	10	so=	4	0	1	16	4	23	2	63	10	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	10	so=	4	0	1	16	4	23	2	63	8	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	10	so=	4	0	1	23	2	56	4	63	10	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	10	so=	4	0	1	23	2	56	4	63	8	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	10	so=	3	0	1	23	2	63	10	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	10	so=	3	0	1	23	2	63	8	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	10	so=	5	0	1	32	4	39	10	40	1	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	10	so=	4	0	1	32	4	39	10	40	1	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	10	so=	5	0	1	32	4	39	8	40	1	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	10	so=	4	0	1	32	4	39	8	40	1	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	10	so=	4	0	1	39	10	40	1	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	10	so=	3	0	1	39	10	40	1	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	10	so=	4	0	1	39	8	40	1	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	10	so=	3	0	1	39	8	40	1	dist=	0	weight=	4	sign=	0
+
+si=	3	0	2	40	9	57	6	so=	3	0	1	39	10	56	6	dist=	0	weight=	8	sign=	0
+si=	3	0	2	40	9	57	6	so=	3	0	1	39	10	56	2	dist=	0	weight=	8	sign=	0
+si=	3	0	2	40	9	57	6	so=	3	0	1	39	10	57	1	dist=	0	weight=	10	sign=	0
+
+si=	3	0	2	40	9	57	5	so=	3	0	1	39	10	56	6	dist=	0	weight=	10	sign=	0
+si=	3	0	2	40	9	57	5	so=	3	0	1	39	10	56	2	dist=	0	weight=	10	sign=	0
+si=	3	0	2	40	9	57	5	so=	3	0	1	39	10	57	1	dist=	0	weight=	10	sign=	0
+
+si=	3	0	2	40	9	57	4	so=	3	0	1	39	10	57	1	dist=	0	weight=	10	sign=	0
+
+si=	2	0	2	40	9	so=	4	0	2	33	4	40	8	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	9	so=	3	0	2	33	4	40	8	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	9	so=	2	0	2	40	10	dist=	63	weight=	6	sign=	0
+si=	2	0	2	40	9	so=	6	0	1	16	4	23	2	39	8	56	4	63	8	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	9	so=	6	0	1	16	4	24	1	39	8	56	4	63	8	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	9	so=	5	0	1	23	2	39	8	56	4	63	8	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	9	so=	3	0	1	23	2	63	10	dist=	40	weight=	6	sign=	0
+si=	2	0	2	40	9	so=	5	0	1	24	1	39	8	56	4	63	8	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	9	so=	3	0	1	32	4	39	10	dist=	0	weight=	6	sign=	0
+si=	2	0	2	40	9	so=	4	0	1	32	4	39	8	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	9	so=	3	0	1	32	4	39	8	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	9	so=	3	0	1	39	10	40	1	dist=	0	weight=	6	sign=	0
+si=	2	0	2	40	9	so=	3	0	1	39	10	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	2	40	9	so=	2	0	1	39	10	dist=	0	weight=	6	sign=	0
+
+si=	3	0	2	40	6	57	4	so=	3	0	1	39	10	57	1	dist=	0	weight=	8	sign=	0
+
+si=	3	0	2	40	5	57	4	so=	3	0	1	39	10	57	1	dist=	0	weight=	10	sign=	0
+
+si=	2	0	2	40	5	so=	2	0	2	40	10	dist=	63	weight=	6	sign=	0
+si=	2	0	2	40	5	so=	5	0	1	16	4	23	2	39	8	63	10	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	5	so=	4	0	1	16	4	23	2	63	10	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	5	so=	5	0	1	16	4	24	1	39	8	63	10	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	5	so=	4	0	1	23	2	39	8	63	10	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	5	so=	3	0	1	23	2	63	10	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	5	so=	4	0	1	24	1	39	8	63	10	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	5	so=	3	0	1	32	4	39	10	dist=	0	weight=	6	sign=	0
+si=	2	0	2	40	5	so=	4	0	1	39	10	40	1	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	5	so=	3	0	1	39	10	40	1	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	5	so=	3	0	1	39	10	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	2	40	5	so=	2	0	1	39	10	dist=	0	weight=	6	sign=	0
+
+si=	2	0	2	40	4	so=	5	0	2	16	8	33	4	40	8	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	4	so=	4	0	2	16	8	33	4	40	8	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	4	so=	4	0	2	33	4	40	10	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	4	so=	3	0	2	33	4	40	10	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	4	so=	5	0	1	15	8	32	4	39	8	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	4	so=	4	0	1	15	8	32	4	39	8	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	4	so=	3	0	1	23	2	63	10	dist=	40	weight=	6	sign=	0
+si=	2	0	2	40	4	so=	4	0	1	32	4	39	10	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	4	so=	3	0	1	32	4	39	10	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	4	so=	3	0	1	39	10	40	1	dist=	0	weight=	6	sign=	0
+
+si=	3	0	2	40	3	57	4	so=	3	0	1	39	10	57	1	dist=	0	weight=	10	sign=	0
+
+si=	2	0	2	40	3	so=	5	0	2	16	8	33	4	40	8	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	3	so=	4	0	2	16	8	33	4	40	8	dist=	63	weight=	4	sign=	0
+si=	2	0	2	40	3	so=	2	0	2	40	10	dist=	63	weight=	6	sign=	0
+si=	2	0	2	40	3	so=	5	0	1	15	8	32	4	39	8	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	3	so=	4	0	1	15	8	32	4	39	8	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	3	so=	4	0	1	16	4	23	2	63	8	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	3	so=	3	0	1	23	2	63	10	dist=	40	weight=	6	sign=	0
+si=	2	0	2	40	3	so=	3	0	1	23	2	63	8	dist=	40	weight=	4	sign=	0
+si=	2	0	2	40	3	so=	3	0	1	32	4	39	10	dist=	0	weight=	6	sign=	0
+si=	2	0	2	40	3	so=	3	0	1	39	10	40	1	dist=	0	weight=	6	sign=	0
+si=	2	0	2	40	3	so=	3	0	1	39	10	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	2	40	3	so=	2	0	1	39	10	dist=	0	weight=	6	sign=	0
+si=	2	0	2	40	3	so=	4	0	1	39	8	40	1	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	2	40	3	so=	3	0	1	39	8	40	1	dist=	0	weight=	4	sign=	0
+
+si=	1	0	2	so=	3	0	2	40	8	57	4	dist=	63	weight=	2	sign=	0
+si=	1	0	2	so=	2	0	2	40	8	dist=	63	weight=	2	sign=	0
+si=	1	0	2	so=	3	0	1	39	8	56	4	dist=	0	weight=	2	sign=	0
+si=	1	0	2	so=	2	0	1	39	8	dist=	0	weight=	2	sign=	0
+
+si=	3	0	1	1	3	56	4	so=	3	0	3	48	4	56	5	dist=	0	weight=	10	sign=	0
+si=	3	0	1	1	3	56	4	so=	3	0	3	56	5	57	4	dist=	0	weight=	10	sign=	0
+si=	3	0	1	1	3	56	4	so=	2	0	3	56	5	dist=	0	weight=	10	sign=	0
+si=	3	0	1	1	3	56	4	so=	3	0	1	55	5	63	3	dist=	1	weight=	10	sign=	0
+si=	3	0	1	1	3	56	4	so=	3	0	1	55	5	63	1	dist=	1	weight=	8	sign=	0
+
+si=	2	0	1	1	3	so=	4	0	4	46	8	47	8	63	4	dist=	57	weight=	4	sign=	0
+si=	2	0	1	1	3	so=	3	0	3	56	4	57	4	dist=	0	weight=	6	sign=	0
+si=	2	0	1	1	3	so=	2	0	3	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	1	1	3	so=	3	0	1	38	8	55	4	dist=	1	weight=	4	sign=	0
+si=	2	0	1	1	3	so=	4	0	1	40	8	56	4	57	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	1	3	so=	3	0	1	55	4	63	3	dist=	1	weight=	6	sign=	0
+si=	2	0	1	1	3	so=	3	0	1	55	4	63	1	dist=	1	weight=	4	sign=	0
+
+si=	3	0	1	6	3	63	6	so=	3	0	1	49	4	57	3	dist=	6	weight=	10	sign=	0
+si=	3	0	1	6	3	63	6	so=	3	0	1	57	3	58	1	dist=	6	weight=	10	sign=	0
+si=	3	0	1	6	3	63	6	so=	2	0	1	57	3	dist=	6	weight=	10	sign=	0
+
+si=	3	0	1	6	3	63	4	so=	3	0	1	49	4	57	3	dist=	6	weight=	10	sign=	0
+si=	3	0	1	6	3	63	4	so=	3	0	1	57	3	58	1	dist=	6	weight=	10	sign=	0
+si=	3	0	1	6	3	63	4	so=	2	0	1	57	3	dist=	6	weight=	10	sign=	0
+
+si=	3	0	1	7	9	24	4	so=	3	0	2	40	6	57	4	dist=	23	weight=	8	sign=	0
+si=	3	0	1	7	9	24	4	so=	3	0	1	32	4	39	14	dist=	24	weight=	10	sign=	0
+si=	3	0	1	7	9	24	4	so=	3	0	1	32	4	39	6	dist=	24	weight=	10	sign=	0
+si=	3	0	1	7	9	24	4	so=	3	0	1	39	14	40	1	dist=	24	weight=	10	sign=	0
+si=	3	0	1	7	9	24	4	so=	3	0	1	39	14	56	4	dist=	24	weight=	10	sign=	0
+si=	3	0	1	7	9	24	4	so=	3	0	1	39	14	63	2	dist=	24	weight=	10	sign=	0
+si=	3	0	1	7	9	24	4	so=	2	0	1	39	14	dist=	24	weight=	10	sign=	0
+si=	3	0	1	7	9	24	4	so=	3	0	1	39	6	40	1	dist=	24	weight=	10	sign=	0
+si=	3	0	1	7	9	24	4	so=	3	0	1	39	6	56	4	dist=	24	weight=	10	sign=	0
+si=	3	0	1	7	9	24	4	so=	3	0	1	39	6	63	2	dist=	24	weight=	10	sign=	0
+si=	3	0	1	7	9	24	4	so=	2	0	1	39	6	dist=	24	weight=	10	sign=	0
+
+si=	3	0	1	7	9	31	2	so=	3	0	1	32	6	39	10	dist=	31	weight=	10	sign=	0
+
+si=	3	0	1	7	4	39	10	so=	3	0	1	32	9	56	6	dist=	7	weight=	10	sign=	0
+
+si=	3	0	1	7	3	56	4	so=	3	0	1	49	5	57	1	dist=	7	weight=	8	sign=	0
+
+si=	3	0	1	7	3	63	6	so=	3	0	1	49	4	56	3	dist=	7	weight=	10	sign=	0
+si=	3	0	1	7	3	63	6	so=	3	0	1	56	3	57	1	dist=	7	weight=	10	sign=	0
+si=	3	0	1	7	3	63	6	so=	2	0	1	56	3	dist=	7	weight=	10	sign=	0
+
+si=	3	0	1	7	3	63	4	so=	3	0	1	49	4	56	3	dist=	7	weight=	10	sign=	0
+si=	3	0	1	7	3	63	4	so=	3	0	1	56	3	57	1	dist=	7	weight=	10	sign=	0
+si=	3	0	1	7	3	63	4	so=	2	0	1	56	3	dist=	7	weight=	10	sign=	0
+
+si=	2	0	1	7	3	so=	4	0	4	40	8	47	8	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	1	7	3	so=	3	0	1	32	8	49	4	dist=	7	weight=	4	sign=	0
+si=	2	0	1	7	3	so=	4	0	1	46	8	56	4	63	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	7	3	so=	3	0	1	49	4	57	1	dist=	7	weight=	4	sign=	0
+
+si=	3	0	1	7	2	47	9	so=	3	0	1	39	10	56	6	dist=	7	weight=	10	sign=	0
+si=	3	0	1	7	2	47	9	so=	3	0	1	39	10	56	2	dist=	7	weight=	10	sign=	0
+
+si=	3	0	1	8	9	25	4	so=	3	0	4	39	4	47	13	dist=	17	weight=	6	sign=	0
+si=	3	0	1	8	9	25	4	so=	3	0	1	31	4	39	13	dist=	25	weight=	8	sign=	0
+si=	3	0	1	8	9	25	4	so=	3	0	1	31	4	39	5	dist=	25	weight=	8	sign=	0
+
+si=	3	0	1	8	3	56	4	so=	3	0	1	48	5	56	1	dist=	8	weight=	8	sign=	0
+
+si=	2	0	1	8	3	so=	3	0	4	8	5	55	8	dist=	56	weight=	4	sign=	0
+si=	2	0	1	8	3	so=	4	0	4	39	8	47	8	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	8	3	so=	3	0	1	31	8	48	4	dist=	8	weight=	4	sign=	0
+si=	2	0	1	8	3	so=	3	0	1	48	4	56	1	dist=	8	weight=	4	sign=	0
+
+si=	3	0	1	14	10	39	9	so=	3	0	2	25	2	40	9	dist=	38	weight=	10	sign=	0
+si=	3	0	1	14	10	39	9	so=	3	0	1	24	2	49	2	dist=	14	weight=	10	sign=	0
+
+si=	3	0	1	14	4	22	9	so=	3	0	4	22	5	47	8	dist=	56	weight=	8	sign=	0
+si=	3	0	1	14	4	22	9	so=	3	0	2	15	5	40	8	dist=	63	weight=	10	sign=	0
+si=	3	0	1	14	4	22	9	so=	2	0	2	15	5	dist=	63	weight=	10	sign=	0
+
+si=	3	0	1	14	4	39	12	so=	3	0	4	22	9	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	14	4	39	12	so=	3	0	2	15	9	40	9	dist=	63	weight=	12	sign=	0
+si=	3	0	1	14	4	39	12	so=	3	0	1	24	2	39	9	dist=	39	weight=	12	sign=	0
+
+si=	3	0	1	14	4	39	4	so=	3	0	4	22	9	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	14	4	39	4	so=	3	0	2	15	9	40	9	dist=	63	weight=	12	sign=	0
+si=	3	0	1	14	4	39	4	so=	3	0	1	24	2	39	9	dist=	39	weight=	12	sign=	0
+
+si=	3	0	1	15	10	39	10	so=	3	0	1	24	9	48	2	dist=	15	weight=	8	sign=	0
+si=	3	0	1	15	10	39	10	so=	3	0	1	24	1	48	2	dist=	15	weight=	8	sign=	0
+
+si=	3	0	1	15	9	39	10	so=	3	0	4	32	9	49	4	dist=	7	weight=	6	sign=	0
+
+si=	3	0	1	17	6	24	2	so=	3	0	1	39	10	56	6	dist=	24	weight=	8	sign=	0
+si=	3	0	1	17	6	24	2	so=	3	0	1	39	10	56	2	dist=	24	weight=	8	sign=	0
+si=	3	0	1	17	6	24	2	so=	3	0	1	39	10	57	1	dist=	24	weight=	10	sign=	0
+
+si=	3	0	1	17	5	24	2	so=	3	0	1	39	10	56	6	dist=	24	weight=	10	sign=	0
+si=	3	0	1	17	5	24	2	so=	3	0	1	39	10	56	2	dist=	24	weight=	10	sign=	0
+si=	3	0	1	17	5	24	2	so=	3	0	1	39	10	57	1	dist=	24	weight=	10	sign=	0
+
+si=	3	0	1	17	4	24	2	so=	3	0	1	39	10	57	1	dist=	24	weight=	10	sign=	0
+
+si=	3	0	1	17	4	25	3	so=	3	0	5	39	12	47	9	dist=	17	weight=	8	sign=	0
+si=	3	0	1	17	4	25	3	so=	3	0	4	8	9	25	5	dist=	56	weight=	8	sign=	0
+
+si=	3	0	1	17	2	39	10	so=	3	0	1	22	9	39	12	dist=	17	weight=	6	sign=	0
+
+si=	3	0	1	17	1	24	2	so=	3	0	1	39	10	56	6	dist=	24	weight=	10	sign=	0
+si=	3	0	1	17	1	24	2	so=	3	0	1	39	10	56	2	dist=	24	weight=	10	sign=	0
+
+si=	3	0	1	22	12	47	1	so=	3	0	4	30	9	47	12	dist=	56	weight=	8	sign=	0
+
+si=	3	0	1	22	10	47	1	so=	3	0	4	30	9	47	12	dist=	56	weight=	6	sign=	0
+
+si=	3	0	1	22	9	39	12	so=	3	0	4	22	12	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	1	22	9	39	12	so=	3	0	4	22	12	47	8	dist=	56	weight=	6	sign=	0
+si=	3	0	1	22	9	39	12	so=	3	0	4	25	9	42	4	dist=	14	weight=	8	sign=	0
+si=	3	0	1	22	9	39	12	so=	3	0	2	15	12	40	9	dist=	63	weight=	10	sign=	0
+si=	3	0	1	22	9	39	12	so=	3	0	2	15	12	40	8	dist=	63	weight=	8	sign=	0
+si=	3	0	1	22	9	39	12	so=	2	0	2	15	12	dist=	63	weight=	8	sign=	0
+si=	3	0	1	22	9	39	12	so=	3	0	2	15	4	40	9	dist=	63	weight=	10	sign=	0
+si=	3	0	1	22	9	39	12	so=	3	0	1	24	2	39	12	dist=	39	weight=	10	sign=	0
+si=	3	0	1	22	9	39	12	so=	3	0	1	24	2	39	4	dist=	39	weight=	10	sign=	0
+
+si=	3	0	1	22	9	46	2	so=	3	0	1	17	2	39	10	dist=	46	weight=	10	sign=	0
+
+si=	3	0	1	22	9	56	4	so=	3	0	4	25	8	42	5	dist=	14	weight=	8	sign=	0
+
+si=	2	0	1	22	9	so=	3	0	4	25	8	42	4	dist=	14	weight=	4	sign=	0
+si=	2	0	1	22	9	so=	3	0	2	15	4	40	8	dist=	63	weight=	6	sign=	0
+si=	2	0	1	22	9	so=	2	0	2	15	4	dist=	63	weight=	6	sign=	0
+si=	2	0	1	22	9	so=	3	0	1	14	4	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	22	9	so=	5	0	1	17	8	34	4	39	8	56	4	dist=	22	weight=	4	sign=	0
+si=	2	0	1	22	9	so=	5	0	1	34	4	39	8	42	1	56	4	dist=	22	weight=	4	sign=	0
+
+si=	3	0	1	22	4	47	1	so=	3	0	4	30	9	47	12	dist=	56	weight=	8	sign=	0
+
+si=	3	0	1	23	2	63	11	so=	3	0	2	40	10	41	3	dist=	22	weight=	10	sign=	0
+si=	3	0	1	23	2	63	11	so=	3	0	1	39	10	40	3	dist=	23	weight=	10	sign=	0
+
+si=	3	0	1	23	2	63	10	so=	3	0	2	40	10	41	3	dist=	22	weight=	8	sign=	0
+si=	3	0	1	23	2	63	10	so=	3	0	1	39	10	40	3	dist=	23	weight=	8	sign=	0
+
+si=	3	0	1	23	2	63	9	so=	3	0	2	40	10	41	3	dist=	22	weight=	10	sign=	0
+si=	3	0	1	23	2	63	9	so=	3	0	1	39	10	40	3	dist=	23	weight=	10	sign=	0
+
+si=	3	0	1	23	2	63	3	so=	3	0	2	40	10	41	3	dist=	22	weight=	10	sign=	0
+si=	3	0	1	23	2	63	3	so=	3	0	1	39	10	40	3	dist=	23	weight=	10	sign=	0
+
+si=	3	0	1	23	2	63	1	so=	3	0	2	40	10	41	3	dist=	22	weight=	10	sign=	0
+si=	3	0	1	23	2	63	1	so=	3	0	1	39	10	40	3	dist=	23	weight=	10	sign=	0
+
+si=	3	0	1	24	12	41	4	so=	3	0	1	22	10	47	1	dist=	41	weight=	12	sign=	0
+
+si=	3	0	1	24	12	49	1	so=	3	0	4	22	10	47	9	dist=	41	weight=	10	sign=	0
+si=	3	0	1	24	12	49	1	so=	3	0	4	22	10	47	8	dist=	41	weight=	8	sign=	0
+si=	3	0	1	24	12	49	1	so=	3	0	2	15	10	40	9	dist=	48	weight=	12	sign=	0
+si=	3	0	1	24	12	49	1	so=	3	0	2	15	10	40	8	dist=	48	weight=	10	sign=	0
+si=	3	0	1	24	12	49	1	so=	2	0	2	15	10	dist=	48	weight=	10	sign=	0
+si=	3	0	1	24	12	49	1	so=	3	0	1	24	2	39	10	dist=	24	weight=	12	sign=	0
+si=	3	0	1	24	12	49	1	so=	3	0	1	48	2	63	10	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	24	9	48	2	so=	3	0	1	15	10	39	10	dist=	48	weight=	10	sign=	0
+
+si=	3	0	1	24	8	48	2	so=	3	0	1	15	10	39	10	dist=	48	weight=	8	sign=	0
+
+si=	3	0	1	24	4	49	1	so=	3	0	4	22	10	47	9	dist=	41	weight=	10	sign=	0
+si=	3	0	1	24	4	49	1	so=	3	0	2	15	10	40	9	dist=	48	weight=	12	sign=	0
+si=	3	0	1	24	4	49	1	so=	3	0	1	24	2	39	10	dist=	24	weight=	12	sign=	0
+
+si=	3	0	1	24	4	56	5	so=	3	0	1	32	5	39	10	dist=	24	weight=	12	sign=	0
+si=	3	0	1	24	4	56	5	so=	3	0	1	32	1	39	10	dist=	24	weight=	12	sign=	0
+
+si=	3	0	1	24	3	63	10	so=	3	0	4	39	4	47	11	dist=	16	weight=	8	sign=	0
+si=	3	0	1	24	3	63	10	so=	3	0	4	40	4	47	11	dist=	16	weight=	8	sign=	0
+si=	3	0	1	24	3	63	10	so=	2	0	4	47	11	dist=	16	weight=	8	sign=	0
+si=	3	0	1	24	3	63	10	so=	3	0	2	32	4	40	11	dist=	23	weight=	10	sign=	0
+si=	3	0	1	24	3	63	10	so=	3	0	2	32	4	40	3	dist=	23	weight=	10	sign=	0
+si=	3	0	1	24	3	63	10	so=	3	0	2	40	11	57	4	dist=	23	weight=	10	sign=	0
+si=	3	0	1	24	3	63	10	so=	2	0	2	40	11	dist=	23	weight=	10	sign=	0
+si=	3	0	1	24	3	63	10	so=	3	0	2	40	3	57	4	dist=	23	weight=	10	sign=	0
+si=	3	0	1	24	3	63	10	so=	2	0	2	40	3	dist=	23	weight=	10	sign=	0
+si=	3	0	1	24	3	63	10	so=	3	0	1	23	2	63	11	dist=	0	weight=	10	sign=	0
+si=	3	0	1	24	3	63	10	so=	3	0	1	23	2	63	3	dist=	0	weight=	10	sign=	0
+si=	3	0	1	24	3	63	10	so=	3	0	1	31	4	39	3	dist=	24	weight=	8	sign=	0
+si=	3	0	1	24	3	63	10	so=	3	0	1	32	4	39	3	dist=	24	weight=	8	sign=	0
+si=	3	0	1	24	3	63	10	so=	3	0	1	39	11	63	2	dist=	24	weight=	10	sign=	0
+si=	3	0	1	24	3	63	10	so=	3	0	1	39	3	40	1	dist=	24	weight=	8	sign=	0
+si=	3	0	1	24	3	63	10	so=	3	0	1	39	3	63	2	dist=	24	weight=	10	sign=	0
+si=	3	0	1	24	3	63	10	so=	2	0	1	39	3	dist=	24	weight=	8	sign=	0
+
+si=	3	0	1	24	2	25	3	so=	3	0	3	32	4	39	10	dist=	24	weight=	10	sign=	0
+si=	3	0	1	24	2	25	3	so=	3	0	3	39	10	40	9	dist=	24	weight=	10	sign=	0
+si=	3	0	1	24	2	25	3	so=	3	0	3	39	10	56	4	dist=	24	weight=	10	sign=	0
+si=	3	0	1	24	2	25	3	so=	3	0	3	39	10	57	4	dist=	24	weight=	10	sign=	0
+si=	3	0	1	24	2	25	3	so=	2	0	3	39	10	dist=	24	weight=	10	sign=	0
+si=	3	0	1	24	2	25	3	so=	3	0	2	39	10	63	2	dist=	24	weight=	10	sign=	0
+si=	3	0	1	24	2	25	3	so=	3	0	1	24	3	63	10	dist=	0	weight=	10	sign=	0
+si=	3	0	1	24	2	25	3	so=	3	0	1	38	10	63	3	dist=	25	weight=	10	sign=	0
+si=	3	0	1	24	2	25	3	so=	3	0	1	38	10	63	1	dist=	25	weight=	8	sign=	0
+
+si=	3	0	1	24	2	25	2	so=	3	0	3	39	10	40	9	dist=	24	weight=	8	sign=	0
+
+si=	3	0	1	24	2	39	12	so=	3	0	1	15	9	39	10	dist=	24	weight=	10	sign=	0
+
+si=	3	0	1	24	2	39	10	so=	3	0	1	15	9	39	10	dist=	24	weight=	8	sign=	0
+
+si=	3	0	1	24	2	39	9	so=	3	0	1	7	4	39	10	dist=	24	weight=	8	sign=	0
+
+si=	3	0	1	24	2	39	4	so=	3	0	1	15	9	39	10	dist=	24	weight=	10	sign=	0
+
+si=	3	0	1	24	2	42	1	so=	3	0	1	17	2	39	10	dist=	24	weight=	10	sign=	0
+
+si=	3	0	1	24	2	49	2	so=	3	0	2	15	10	40	9	dist=	48	weight=	8	sign=	0
+si=	3	0	1	24	2	49	2	so=	3	0	1	14	10	39	9	dist=	49	weight=	8	sign=	0
+
+si=	3	0	1	24	2	56	6	so=	3	0	1	32	5	39	10	dist=	24	weight=	10	sign=	0
+si=	3	0	1	24	2	56	6	so=	3	0	1	32	1	39	10	dist=	24	weight=	10	sign=	0
+
+si=	3	0	1	24	2	56	5	so=	3	0	1	32	5	39	10	dist=	24	weight=	10	sign=	0
+si=	3	0	1	24	2	56	5	so=	3	0	1	32	1	39	10	dist=	24	weight=	10	sign=	0
+
+si=	3	0	1	24	2	56	4	so=	3	0	1	32	5	39	10	dist=	24	weight=	10	sign=	0
+si=	3	0	1	24	2	56	4	so=	3	0	1	32	1	39	10	dist=	24	weight=	10	sign=	0
+
+si=	3	0	1	24	2	57	1	so=	3	0	1	32	6	39	10	dist=	24	weight=	10	sign=	0
+
+si=	2	0	1	24	2	so=	5	0	2	16	8	33	4	40	8	57	4	dist=	23	weight=	4	sign=	0
+si=	2	0	1	24	2	so=	4	0	2	16	8	33	4	40	8	dist=	23	weight=	4	sign=	0
+si=	2	0	1	24	2	so=	2	0	2	40	10	dist=	23	weight=	6	sign=	0
+si=	2	0	1	24	2	so=	5	0	1	15	8	32	4	39	8	56	4	dist=	24	weight=	4	sign=	0
+si=	2	0	1	24	2	so=	4	0	1	15	8	32	4	39	8	dist=	24	weight=	4	sign=	0
+si=	2	0	1	24	2	so=	5	0	1	16	4	23	2	56	4	63	8	dist=	0	weight=	4	sign=	0
+si=	2	0	1	24	2	so=	4	0	1	23	2	56	4	63	8	dist=	0	weight=	4	sign=	0
+si=	2	0	1	24	2	so=	3	0	1	23	2	63	10	dist=	0	weight=	6	sign=	0
+si=	2	0	1	24	2	so=	3	0	1	32	4	39	10	dist=	24	weight=	6	sign=	0
+si=	2	0	1	24	2	so=	5	0	1	32	4	39	8	40	1	56	4	dist=	24	weight=	4	sign=	0
+si=	2	0	1	24	2	so=	4	0	1	32	4	39	8	40	1	dist=	24	weight=	4	sign=	0
+si=	2	0	1	24	2	so=	3	0	1	39	10	40	1	dist=	24	weight=	6	sign=	0
+si=	2	0	1	24	2	so=	3	0	1	39	10	56	4	dist=	24	weight=	6	sign=	0
+si=	2	0	1	24	2	so=	2	0	1	39	10	dist=	24	weight=	6	sign=	0
+
+si=	3	0	1	24	1	48	2	so=	3	0	1	15	10	39	10	dist=	48	weight=	10	sign=	0
+
+si=	3	0	1	25	3	56	4	so=	3	0	4	39	5	47	9	dist=	17	weight=	8	sign=	0
+si=	3	0	1	25	3	56	4	so=	3	0	2	32	5	40	9	dist=	24	weight=	10	sign=	0
+si=	3	0	1	25	3	56	4	so=	3	0	1	24	2	56	5	dist=	0	weight=	10	sign=	0
+si=	3	0	1	25	3	56	4	so=	3	0	1	31	5	39	1	dist=	25	weight=	8	sign=	0
+
+si=	2	0	1	25	3	so=	4	0	4	22	8	39	4	47	8	dist=	17	weight=	4	sign=	0
+si=	2	0	1	25	3	so=	3	0	4	39	4	47	9	dist=	17	weight=	4	sign=	0
+si=	2	0	1	25	3	so=	3	0	2	32	4	40	9	dist=	24	weight=	6	sign=	0
+si=	2	0	1	25	3	so=	3	0	1	14	8	31	4	dist=	25	weight=	4	sign=	0
+si=	2	0	1	25	3	so=	3	0	1	24	2	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	1	25	3	so=	3	0	1	31	4	39	1	dist=	25	weight=	4	sign=	0
+
+si=	3	0	1	31	5	39	1	so=	3	0	4	39	5	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	1	31	5	39	1	so=	3	0	2	32	5	40	9	dist=	63	weight=	10	sign=	0
+si=	3	0	1	31	5	39	1	so=	3	0	1	24	2	56	5	dist=	39	weight=	10	sign=	0
+
+si=	3	0	1	31	4	39	13	so=	3	0	4	39	5	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	31	4	39	13	so=	3	0	2	32	5	40	9	dist=	63	weight=	12	sign=	0
+si=	3	0	1	31	4	39	13	so=	3	0	1	8	9	25	4	dist=	31	weight=	10	sign=	0
+si=	3	0	1	31	4	39	13	so=	3	0	1	24	2	56	5	dist=	39	weight=	12	sign=	0
+
+si=	3	0	1	31	4	39	5	so=	3	0	4	39	5	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	31	4	39	5	so=	3	0	2	32	5	40	9	dist=	63	weight=	12	sign=	0
+si=	3	0	1	31	4	39	5	so=	3	0	1	8	9	25	4	dist=	31	weight=	10	sign=	0
+si=	3	0	1	31	4	39	5	so=	3	0	1	24	2	56	5	dist=	39	weight=	12	sign=	0
+
+si=	3	0	1	31	4	39	3	so=	3	0	1	8	9	25	4	dist=	31	weight=	8	sign=	0
+
+si=	3	0	1	31	4	39	1	so=	3	0	4	39	5	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	1	31	4	39	1	so=	3	0	2	32	5	40	9	dist=	63	weight=	10	sign=	0
+si=	3	0	1	31	4	39	1	so=	3	0	1	24	2	56	5	dist=	39	weight=	10	sign=	0
+
+si=	3	0	1	32	9	56	6	so=	3	0	1	24	4	56	5	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	32	6	39	10	so=	3	0	4	39	6	47	9	dist=	56	weight=	6	sign=	0
+si=	3	0	1	32	6	39	10	so=	3	0	2	32	6	40	9	dist=	63	weight=	8	sign=	0
+si=	3	0	1	32	6	39	10	so=	3	0	1	7	9	24	4	dist=	32	weight=	8	sign=	0
+si=	3	0	1	32	6	39	10	so=	3	0	1	7	9	31	2	dist=	32	weight=	10	sign=	0
+si=	3	0	1	32	6	39	10	so=	3	0	1	24	2	56	6	dist=	39	weight=	8	sign=	0
+si=	3	0	1	32	6	39	10	so=	3	0	1	24	2	57	1	dist=	39	weight=	10	sign=	0
+
+si=	3	0	1	32	5	39	10	so=	3	0	4	39	6	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	1	32	5	39	10	so=	3	0	2	32	6	40	9	dist=	63	weight=	10	sign=	0
+si=	3	0	1	32	5	39	10	so=	3	0	1	7	9	24	4	dist=	32	weight=	8	sign=	0
+si=	3	0	1	32	5	39	10	so=	3	0	1	7	9	31	2	dist=	32	weight=	10	sign=	0
+si=	3	0	1	32	5	39	10	so=	3	0	1	24	2	56	6	dist=	39	weight=	10	sign=	0
+si=	3	0	1	32	5	39	10	so=	3	0	1	24	2	57	1	dist=	39	weight=	10	sign=	0
+
+si=	3	0	1	32	4	39	14	so=	3	0	1	7	9	24	4	dist=	32	weight=	10	sign=	0
+si=	3	0	1	32	4	39	14	so=	3	0	1	7	9	31	2	dist=	32	weight=	12	sign=	0
+si=	3	0	1	32	4	39	14	so=	3	0	1	24	2	57	1	dist=	39	weight=	12	sign=	0
+
+si=	3	0	1	32	4	39	10	so=	3	0	1	7	9	24	4	dist=	32	weight=	8	sign=	0
+si=	3	0	1	32	4	39	10	so=	3	0	1	7	9	31	2	dist=	32	weight=	10	sign=	0
+si=	3	0	1	32	4	39	10	so=	3	0	1	24	2	57	1	dist=	39	weight=	10	sign=	0
+
+si=	3	0	1	32	4	39	6	so=	3	0	1	7	9	24	4	dist=	32	weight=	10	sign=	0
+si=	3	0	1	32	4	39	6	so=	3	0	1	7	9	31	2	dist=	32	weight=	12	sign=	0
+si=	3	0	1	32	4	39	6	so=	3	0	1	24	2	57	1	dist=	39	weight=	12	sign=	0
+
+si=	3	0	1	32	4	39	3	so=	3	0	1	7	9	24	4	dist=	32	weight=	8	sign=	0
+si=	3	0	1	32	4	39	3	so=	3	0	1	7	9	31	2	dist=	32	weight=	10	sign=	0
+si=	3	0	1	32	4	39	3	so=	3	0	1	24	2	57	1	dist=	39	weight=	10	sign=	0
+
+si=	3	0	1	32	1	39	10	so=	3	0	4	39	6	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	1	32	1	39	10	so=	3	0	2	32	6	40	9	dist=	63	weight=	10	sign=	0
+si=	3	0	1	32	1	39	10	so=	3	0	1	24	2	56	6	dist=	39	weight=	10	sign=	0
+
+si=	3	0	1	32	1	39	1	so=	3	0	4	39	6	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	1	32	1	39	1	so=	3	0	2	32	6	40	9	dist=	63	weight=	10	sign=	0
+si=	3	0	1	32	1	39	1	so=	3	0	1	24	2	56	6	dist=	39	weight=	10	sign=	0
+
+si=	3	0	1	38	12	63	3	so=	3	0	2	1	3	40	9	dist=	62	weight=	12	sign=	0
+si=	3	0	1	38	12	63	3	so=	3	0	2	39	9	63	2	dist=	63	weight=	12	sign=	0
+si=	3	0	1	38	12	63	3	so=	3	0	1	24	2	25	3	dist=	38	weight=	12	sign=	0
+si=	3	0	1	38	12	63	3	so=	3	0	1	24	2	25	2	dist=	38	weight=	12	sign=	0
+si=	3	0	1	38	12	63	3	so=	3	0	1	25	3	56	4	dist=	38	weight=	10	sign=	0
+si=	3	0	1	38	12	63	3	so=	2	0	1	25	3	dist=	38	weight=	10	sign=	0
+si=	3	0	1	38	12	63	3	so=	3	0	1	38	1	63	3	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	38	10	63	3	so=	3	0	2	1	3	40	9	dist=	62	weight=	10	sign=	0
+si=	3	0	1	38	10	63	3	so=	3	0	2	39	9	63	2	dist=	63	weight=	10	sign=	0
+si=	3	0	1	38	10	63	3	so=	3	0	1	24	2	25	3	dist=	38	weight=	10	sign=	0
+si=	3	0	1	38	10	63	3	so=	3	0	1	24	2	25	2	dist=	38	weight=	10	sign=	0
+si=	3	0	1	38	10	63	3	so=	3	0	1	25	3	56	4	dist=	38	weight=	8	sign=	0
+si=	3	0	1	38	10	63	3	so=	2	0	1	25	3	dist=	38	weight=	8	sign=	0
+si=	3	0	1	38	10	63	3	so=	3	0	1	38	1	63	3	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	38	10	63	1	so=	3	0	2	1	3	40	9	dist=	62	weight=	10	sign=	0
+si=	3	0	1	38	10	63	1	so=	3	0	2	39	9	63	2	dist=	63	weight=	10	sign=	0
+si=	3	0	1	38	10	63	1	so=	3	0	1	17	4	25	3	dist=	38	weight=	8	sign=	0
+si=	3	0	1	38	10	63	1	so=	3	0	1	24	2	25	3	dist=	38	weight=	10	sign=	0
+si=	3	0	1	38	10	63	1	so=	3	0	1	24	2	25	2	dist=	38	weight=	10	sign=	0
+
+si=	3	0	1	38	4	63	3	so=	3	0	2	1	3	40	9	dist=	62	weight=	12	sign=	0
+si=	3	0	1	38	4	63	3	so=	3	0	2	39	9	63	2	dist=	63	weight=	12	sign=	0
+si=	3	0	1	38	4	63	3	so=	3	0	1	24	2	25	3	dist=	38	weight=	12	sign=	0
+si=	3	0	1	38	4	63	3	so=	3	0	1	24	2	25	2	dist=	38	weight=	12	sign=	0
+si=	3	0	1	38	4	63	3	so=	3	0	1	25	3	56	4	dist=	38	weight=	10	sign=	0
+si=	3	0	1	38	4	63	3	so=	2	0	1	25	3	dist=	38	weight=	10	sign=	0
+si=	3	0	1	38	4	63	3	so=	3	0	1	38	1	63	3	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	38	1	63	3	so=	3	0	1	25	3	56	4	dist=	38	weight=	8	sign=	0
+
+si=	3	0	1	39	14	40	1	so=	3	0	4	39	4	47	11	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	14	40	1	so=	3	0	4	40	4	47	11	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	14	40	1	so=	2	0	4	47	11	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	14	40	1	so=	3	0	2	32	4	40	11	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	14	40	1	so=	3	0	2	32	4	40	3	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	14	40	1	so=	3	0	2	40	11	57	4	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	14	40	1	so=	2	0	2	40	11	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	14	40	1	so=	3	0	2	40	3	57	4	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	14	40	1	so=	2	0	2	40	3	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	14	40	1	so=	3	0	1	23	2	63	11	dist=	40	weight=	12	sign=	0
+si=	3	0	1	39	14	40	1	so=	3	0	1	23	2	63	3	dist=	40	weight=	12	sign=	0
+si=	3	0	1	39	14	40	1	so=	3	0	1	39	11	63	2	dist=	0	weight=	12	sign=	0
+si=	3	0	1	39	14	40	1	so=	3	0	1	39	3	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	1	39	14	40	1	so=	3	0	1	39	3	63	2	dist=	0	weight=	12	sign=	0
+
+si=	3	0	1	39	14	56	4	so=	3	0	5	39	12	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	14	56	4	so=	2	0	5	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	14	56	4	so=	3	0	4	8	9	25	5	dist=	31	weight=	10	sign=	0
+si=	3	0	1	39	14	56	4	so=	3	0	4	8	5	55	9	dist=	48	weight=	10	sign=	0
+si=	3	0	1	39	14	56	4	so=	3	0	2	40	9	57	5	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	14	56	4	so=	3	0	1	7	2	47	9	dist=	56	weight=	12	sign=	0
+si=	3	0	1	39	14	56	4	so=	3	0	1	17	5	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	14	56	4	so=	3	0	1	17	1	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	14	56	4	so=	3	0	1	39	1	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	39	14	63	2	so=	3	0	3	39	10	40	9	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	14	63	2	so=	3	0	3	39	10	56	4	dist=	63	weight=	8	sign=	0
+si=	3	0	1	39	14	63	2	so=	3	0	3	39	10	57	4	dist=	63	weight=	8	sign=	0
+si=	3	0	1	39	14	63	2	so=	2	0	3	39	10	dist=	63	weight=	8	sign=	0
+si=	3	0	1	39	14	63	2	so=	3	0	2	39	10	63	2	dist=	63	weight=	8	sign=	0
+si=	3	0	1	39	14	63	2	so=	3	0	1	24	3	63	10	dist=	39	weight=	10	sign=	0
+si=	3	0	1	39	14	63	2	so=	3	0	1	38	10	63	3	dist=	0	weight=	8	sign=	0
+
+si=	2	0	1	39	14	so=	3	0	4	22	8	47	8	dist=	56	weight=	4	sign=	0
+si=	2	0	1	39	14	so=	3	0	4	39	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	1	39	14	so=	2	0	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	1	39	14	so=	3	0	2	1	8	18	4	dist=	38	weight=	4	sign=	0
+si=	2	0	1	39	14	so=	3	0	2	32	4	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	14	so=	3	0	2	40	9	57	4	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	14	so=	2	0	2	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	14	so=	3	0	1	14	8	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	14	so=	3	0	1	17	4	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	14	so=	3	0	1	24	2	56	4	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	14	so=	2	0	1	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	14	so=	3	0	1	38	2	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	14	so=	3	0	1	39	9	63	2	dist=	0	weight=	8	sign=	0
+si=	2	0	1	39	14	so=	3	0	1	39	1	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	1	39	14	so=	3	0	1	39	1	63	2	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	39	13	56	4	so=	3	0	5	39	12	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	13	56	4	so=	2	0	5	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	13	56	4	so=	3	0	4	8	9	25	5	dist=	31	weight=	10	sign=	0
+si=	3	0	1	39	13	56	4	so=	3	0	4	8	5	55	9	dist=	48	weight=	10	sign=	0
+si=	3	0	1	39	13	56	4	so=	3	0	2	40	9	57	5	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	13	56	4	so=	3	0	1	7	2	47	9	dist=	56	weight=	12	sign=	0
+si=	3	0	1	39	13	56	4	so=	3	0	1	17	5	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	13	56	4	so=	3	0	1	17	1	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	13	56	4	so=	3	0	1	39	1	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	39	13	63	2	so=	3	0	3	32	4	39	10	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	13	63	2	so=	3	0	3	39	10	56	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	13	63	2	so=	3	0	3	39	10	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	13	63	2	so=	2	0	3	39	10	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	13	63	2	so=	3	0	2	39	10	63	2	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	13	63	2	so=	3	0	1	38	10	63	3	dist=	0	weight=	10	sign=	0
+
+si=	2	0	1	39	13	so=	3	0	4	22	8	47	8	dist=	56	weight=	4	sign=	0
+si=	2	0	1	39	13	so=	3	0	4	39	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	1	39	13	so=	3	0	4	39	4	47	8	dist=	56	weight=	4	sign=	0
+si=	2	0	1	39	13	so=	2	0	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	1	39	13	so=	3	0	2	32	4	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	13	so=	3	0	2	40	9	57	4	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	13	so=	2	0	2	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	13	so=	3	0	1	14	8	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	13	so=	3	0	1	17	4	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	13	so=	3	0	1	24	2	56	4	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	13	so=	2	0	1	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	13	so=	3	0	1	31	4	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	13	so=	3	0	1	39	9	63	2	dist=	0	weight=	8	sign=	0
+si=	2	0	1	39	13	so=	3	0	1	39	1	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	1	39	13	so=	3	0	1	39	1	63	2	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	39	12	40	1	so=	3	0	4	39	4	47	11	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	12	40	1	so=	3	0	4	40	4	47	11	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	12	40	1	so=	2	0	4	47	11	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	12	40	1	so=	3	0	2	32	4	40	11	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	12	40	1	so=	3	0	2	32	4	40	3	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	12	40	1	so=	3	0	2	40	11	57	4	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	12	40	1	so=	2	0	2	40	11	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	12	40	1	so=	3	0	2	40	3	57	4	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	12	40	1	so=	2	0	2	40	3	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	12	40	1	so=	3	0	1	23	2	63	11	dist=	40	weight=	12	sign=	0
+si=	3	0	1	39	12	40	1	so=	3	0	1	23	2	63	3	dist=	40	weight=	12	sign=	0
+si=	3	0	1	39	12	40	1	so=	3	0	1	39	11	63	2	dist=	0	weight=	12	sign=	0
+si=	3	0	1	39	12	40	1	so=	3	0	1	39	3	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	1	39	12	40	1	so=	3	0	1	39	3	63	2	dist=	0	weight=	12	sign=	0
+
+si=	3	0	1	39	12	56	5	so=	3	0	5	39	12	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	12	56	5	so=	2	0	5	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	12	56	5	so=	3	0	4	8	9	25	5	dist=	31	weight=	10	sign=	0
+si=	3	0	1	39	12	56	5	so=	3	0	4	8	5	55	9	dist=	48	weight=	10	sign=	0
+si=	3	0	1	39	12	56	5	so=	3	0	2	40	9	57	5	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	12	56	5	so=	3	0	1	7	2	47	9	dist=	56	weight=	12	sign=	0
+si=	3	0	1	39	12	56	5	so=	3	0	1	17	5	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	12	56	5	so=	3	0	1	17	1	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	12	56	5	so=	3	0	1	39	1	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	39	12	56	4	so=	3	0	5	39	12	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	12	56	4	so=	2	0	5	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	12	56	4	so=	3	0	4	8	9	25	5	dist=	31	weight=	10	sign=	0
+si=	3	0	1	39	12	56	4	so=	3	0	4	8	5	55	9	dist=	48	weight=	10	sign=	0
+si=	3	0	1	39	12	56	4	so=	3	0	2	40	9	57	5	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	12	56	4	so=	3	0	1	7	2	47	9	dist=	56	weight=	12	sign=	0
+si=	3	0	1	39	12	56	4	so=	3	0	1	17	5	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	12	56	4	so=	3	0	1	17	1	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	12	56	4	so=	3	0	1	39	1	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	39	12	56	1	so=	3	0	4	8	5	55	9	dist=	48	weight=	8	sign=	0
+
+si=	3	0	1	39	12	57	1	so=	2	0	6	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	12	57	1	so=	3	0	4	7	6	54	9	dist=	49	weight=	10	sign=	0
+si=	3	0	1	39	12	57	1	so=	3	0	4	8	9	25	6	dist=	31	weight=	10	sign=	0
+si=	3	0	1	39	12	57	1	so=	3	0	2	40	9	57	6	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	12	57	1	so=	3	0	1	17	6	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	12	57	1	so=	3	0	1	39	1	56	6	dist=	0	weight=	10	sign=	0
+si=	3	0	1	39	12	57	1	so=	3	0	1	46	9	63	6	dist=	57	weight=	10	sign=	0
+
+si=	3	0	1	39	12	63	2	so=	3	0	3	32	4	39	10	dist=	63	weight=	8	sign=	0
+si=	3	0	1	39	12	63	2	so=	3	0	3	39	10	40	9	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	12	63	2	so=	3	0	1	24	3	63	10	dist=	39	weight=	10	sign=	0
+
+si=	2	0	1	39	12	so=	3	0	4	22	8	47	8	dist=	56	weight=	4	sign=	0
+si=	2	0	1	39	12	so=	3	0	4	39	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	1	39	12	so=	2	0	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	1	39	12	so=	4	0	2	1	8	18	4	57	4	dist=	38	weight=	4	sign=	0
+si=	2	0	1	39	12	so=	3	0	2	32	4	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	12	so=	3	0	2	40	9	57	4	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	12	so=	2	0	2	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	12	so=	3	0	1	14	8	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	12	so=	3	0	1	17	4	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	12	so=	3	0	1	24	2	56	4	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	12	so=	2	0	1	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	12	so=	4	0	1	31	4	38	2	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	12	so=	3	0	1	39	9	63	2	dist=	0	weight=	8	sign=	0
+si=	2	0	1	39	12	so=	3	0	1	39	1	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	1	39	12	so=	3	0	1	39	1	63	2	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	39	11	63	2	so=	3	0	3	32	4	39	10	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	11	63	2	so=	3	0	3	39	10	40	9	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	11	63	2	so=	3	0	3	39	10	56	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	11	63	2	so=	3	0	3	39	10	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	11	63	2	so=	2	0	3	39	10	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	11	63	2	so=	3	0	2	39	10	63	2	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	11	63	2	so=	3	0	1	24	3	63	10	dist=	39	weight=	10	sign=	0
+si=	3	0	1	39	11	63	2	so=	3	0	1	38	10	63	3	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	39	10	40	3	so=	3	0	4	39	4	47	11	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	10	40	3	so=	3	0	4	40	4	47	11	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	10	40	3	so=	2	0	4	47	11	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	10	40	3	so=	3	0	2	32	4	40	11	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	10	40	3	so=	3	0	2	32	4	40	3	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	10	40	3	so=	3	0	2	40	11	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	10	40	3	so=	2	0	2	40	11	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	10	40	3	so=	3	0	2	40	3	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	10	40	3	so=	2	0	2	40	3	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	10	40	3	so=	3	0	1	23	2	63	11	dist=	40	weight=	10	sign=	0
+si=	3	0	1	39	10	40	3	so=	3	0	1	23	2	63	9	dist=	40	weight=	8	sign=	0
+si=	3	0	1	39	10	40	3	so=	3	0	1	23	2	63	3	dist=	40	weight=	10	sign=	0
+si=	3	0	1	39	10	40	3	so=	3	0	1	23	2	63	1	dist=	40	weight=	8	sign=	0
+si=	3	0	1	39	10	40	3	so=	3	0	1	39	11	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	1	39	10	40	3	so=	3	0	1	39	3	56	4	dist=	0	weight=	8	sign=	0
+si=	3	0	1	39	10	40	3	so=	3	0	1	39	3	63	2	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	39	10	40	1	so=	3	0	4	39	4	47	11	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	10	40	1	so=	3	0	4	40	4	47	11	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	10	40	1	so=	2	0	4	47	11	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	10	40	1	so=	3	0	2	32	4	40	11	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	10	40	1	so=	3	0	2	32	4	40	3	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	10	40	1	so=	3	0	2	40	11	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	10	40	1	so=	2	0	2	40	11	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	10	40	1	so=	3	0	2	40	3	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	10	40	1	so=	2	0	2	40	3	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	10	40	1	so=	3	0	1	23	2	63	11	dist=	40	weight=	10	sign=	0
+si=	3	0	1	39	10	40	1	so=	3	0	1	23	2	63	3	dist=	40	weight=	10	sign=	0
+si=	3	0	1	39	10	40	1	so=	3	0	1	39	11	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	1	39	10	40	1	so=	3	0	1	39	3	56	4	dist=	0	weight=	8	sign=	0
+si=	3	0	1	39	10	40	1	so=	3	0	1	39	3	63	2	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	39	10	56	6	so=	3	0	5	39	12	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	10	56	6	so=	2	0	5	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	10	56	6	so=	3	0	4	8	9	25	5	dist=	31	weight=	8	sign=	0
+si=	3	0	1	39	10	56	6	so=	3	0	4	8	5	55	9	dist=	48	weight=	8	sign=	0
+si=	3	0	1	39	10	56	6	so=	3	0	2	40	9	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	10	56	6	so=	3	0	1	7	2	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	10	56	6	so=	3	0	1	17	5	24	2	dist=	39	weight=	10	sign=	0
+si=	3	0	1	39	10	56	6	so=	3	0	1	17	1	24	2	dist=	39	weight=	10	sign=	0
+si=	3	0	1	39	10	56	6	so=	3	0	1	39	1	56	5	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	39	10	56	4	so=	3	0	5	39	12	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	10	56	4	so=	2	0	5	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	10	56	4	so=	3	0	4	8	9	25	5	dist=	31	weight=	8	sign=	0
+si=	3	0	1	39	10	56	4	so=	3	0	4	8	5	55	9	dist=	48	weight=	8	sign=	0
+si=	3	0	1	39	10	56	4	so=	3	0	2	40	9	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	10	56	4	so=	3	0	1	7	2	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	10	56	4	so=	3	0	1	17	5	24	2	dist=	39	weight=	10	sign=	0
+si=	3	0	1	39	10	56	4	so=	3	0	1	17	1	24	2	dist=	39	weight=	10	sign=	0
+si=	3	0	1	39	10	56	4	so=	3	0	1	39	1	56	5	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	39	10	56	2	so=	3	0	5	39	12	47	9	dist=	56	weight=	6	sign=	0
+
+si=	3	0	1	39	10	57	1	so=	2	0	6	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	10	57	1	so=	3	0	4	7	6	54	9	dist=	49	weight=	8	sign=	0
+si=	3	0	1	39	10	57	1	so=	3	0	4	8	9	25	6	dist=	31	weight=	8	sign=	0
+si=	3	0	1	39	10	57	1	so=	3	0	2	40	9	57	6	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	10	57	1	so=	3	0	1	17	6	24	2	dist=	39	weight=	10	sign=	0
+si=	3	0	1	39	10	57	1	so=	3	0	1	39	1	56	6	dist=	0	weight=	8	sign=	0
+si=	3	0	1	39	10	57	1	so=	3	0	1	46	9	63	6	dist=	57	weight=	8	sign=	0
+
+si=	2	0	1	39	10	so=	3	0	4	39	4	47	9	dist=	56	weight=	4	sign=	0
+si=	2	0	1	39	10	so=	2	0	4	47	9	dist=	56	weight=	4	sign=	0
+si=	2	0	1	39	10	so=	4	0	2	1	9	18	4	57	4	dist=	38	weight=	4	sign=	0
+si=	2	0	1	39	10	so=	3	0	2	1	9	18	4	dist=	38	weight=	4	sign=	0
+si=	2	0	1	39	10	so=	3	0	2	32	4	40	9	dist=	63	weight=	6	sign=	0
+si=	2	0	1	39	10	so=	3	0	2	40	9	57	4	dist=	63	weight=	6	sign=	0
+si=	2	0	1	39	10	so=	2	0	2	40	9	dist=	63	weight=	6	sign=	0
+si=	2	0	1	39	10	so=	3	0	1	17	4	24	2	dist=	39	weight=	6	sign=	0
+si=	2	0	1	39	10	so=	3	0	1	24	2	56	4	dist=	39	weight=	6	sign=	0
+si=	2	0	1	39	10	so=	2	0	1	24	2	dist=	39	weight=	6	sign=	0
+si=	2	0	1	39	10	so=	5	0	1	31	4	38	2	39	1	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	10	so=	4	0	1	31	4	39	1	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	10	so=	4	0	1	38	2	39	1	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	10	so=	3	0	1	39	9	63	2	dist=	0	weight=	6	sign=	0
+si=	2	0	1	39	10	so=	3	0	1	39	1	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	10	so=	3	0	1	39	1	63	2	dist=	0	weight=	6	sign=	0
+
+si=	3	0	1	39	9	63	2	so=	3	0	3	32	4	39	10	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	9	63	2	so=	3	0	3	39	10	40	9	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	9	63	2	so=	3	0	3	39	10	56	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	9	63	2	so=	3	0	3	39	10	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	9	63	2	so=	2	0	3	39	10	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	9	63	2	so=	3	0	2	39	10	63	2	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	9	63	2	so=	3	0	1	24	3	63	10	dist=	39	weight=	10	sign=	0
+si=	3	0	1	39	9	63	2	so=	3	0	1	38	10	63	3	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	39	6	40	1	so=	3	0	4	39	4	47	11	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	6	40	1	so=	3	0	4	40	4	47	11	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	6	40	1	so=	2	0	4	47	11	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	6	40	1	so=	3	0	2	32	4	40	11	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	6	40	1	so=	3	0	2	32	4	40	3	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	6	40	1	so=	3	0	2	40	11	57	4	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	6	40	1	so=	2	0	2	40	11	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	6	40	1	so=	3	0	2	40	3	57	4	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	6	40	1	so=	2	0	2	40	3	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	6	40	1	so=	3	0	1	23	2	63	11	dist=	40	weight=	12	sign=	0
+si=	3	0	1	39	6	40	1	so=	3	0	1	23	2	63	3	dist=	40	weight=	12	sign=	0
+si=	3	0	1	39	6	40	1	so=	3	0	1	39	11	63	2	dist=	0	weight=	12	sign=	0
+si=	3	0	1	39	6	40	1	so=	3	0	1	39	3	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	1	39	6	40	1	so=	3	0	1	39	3	63	2	dist=	0	weight=	12	sign=	0
+
+si=	3	0	1	39	6	56	4	so=	3	0	5	39	12	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	6	56	4	so=	2	0	5	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	6	56	4	so=	3	0	4	8	9	25	5	dist=	31	weight=	10	sign=	0
+si=	3	0	1	39	6	56	4	so=	3	0	4	8	5	55	9	dist=	48	weight=	10	sign=	0
+si=	3	0	1	39	6	56	4	so=	3	0	2	40	9	57	5	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	6	56	4	so=	3	0	1	7	2	47	9	dist=	56	weight=	12	sign=	0
+si=	3	0	1	39	6	56	4	so=	3	0	1	17	5	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	6	56	4	so=	3	0	1	17	1	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	6	56	4	so=	3	0	1	39	1	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	39	6	63	2	so=	3	0	3	39	10	40	9	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	6	63	2	so=	3	0	3	39	10	56	4	dist=	63	weight=	8	sign=	0
+si=	3	0	1	39	6	63	2	so=	3	0	3	39	10	57	4	dist=	63	weight=	8	sign=	0
+si=	3	0	1	39	6	63	2	so=	2	0	3	39	10	dist=	63	weight=	8	sign=	0
+si=	3	0	1	39	6	63	2	so=	3	0	2	39	10	63	2	dist=	63	weight=	8	sign=	0
+si=	3	0	1	39	6	63	2	so=	3	0	1	24	3	63	10	dist=	39	weight=	10	sign=	0
+si=	3	0	1	39	6	63	2	so=	3	0	1	38	10	63	3	dist=	0	weight=	8	sign=	0
+
+si=	2	0	1	39	6	so=	4	0	4	22	8	39	4	47	8	dist=	56	weight=	4	sign=	0
+si=	2	0	1	39	6	so=	3	0	4	39	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	1	39	6	so=	2	0	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	1	39	6	so=	3	0	2	1	8	18	4	dist=	38	weight=	4	sign=	0
+si=	2	0	1	39	6	so=	3	0	2	32	4	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	6	so=	3	0	2	40	9	57	4	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	6	so=	2	0	2	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	6	so=	4	0	1	14	8	31	4	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	6	so=	3	0	1	17	4	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	6	so=	3	0	1	24	2	56	4	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	6	so=	2	0	1	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	6	so=	3	0	1	38	2	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	6	so=	3	0	1	39	9	63	2	dist=	0	weight=	8	sign=	0
+si=	2	0	1	39	6	so=	3	0	1	39	1	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	1	39	6	so=	3	0	1	39	1	63	2	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	39	5	56	4	so=	3	0	5	39	12	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	5	56	4	so=	2	0	5	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	5	56	4	so=	3	0	4	8	9	25	5	dist=	31	weight=	10	sign=	0
+si=	3	0	1	39	5	56	4	so=	3	0	4	8	5	55	9	dist=	48	weight=	10	sign=	0
+si=	3	0	1	39	5	56	4	so=	3	0	2	40	9	57	5	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	5	56	4	so=	3	0	1	7	2	47	9	dist=	56	weight=	12	sign=	0
+si=	3	0	1	39	5	56	4	so=	3	0	1	17	5	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	5	56	4	so=	3	0	1	17	1	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	5	56	4	so=	3	0	1	39	1	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	39	5	63	2	so=	3	0	3	32	4	39	10	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	5	63	2	so=	3	0	3	39	10	40	9	dist=	63	weight=	8	sign=	0
+si=	3	0	1	39	5	63	2	so=	3	0	3	39	10	56	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	5	63	2	so=	3	0	3	39	10	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	5	63	2	so=	2	0	3	39	10	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	5	63	2	so=	3	0	2	39	10	63	2	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	5	63	2	so=	3	0	1	24	3	63	10	dist=	39	weight=	8	sign=	0
+si=	3	0	1	39	5	63	2	so=	3	0	1	38	10	63	3	dist=	0	weight=	10	sign=	0
+
+si=	2	0	1	39	5	so=	3	0	4	39	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	1	39	5	so=	2	0	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	1	39	5	so=	4	0	2	1	9	18	4	40	8	dist=	38	weight=	4	sign=	0
+si=	2	0	1	39	5	so=	3	0	2	1	9	18	4	dist=	38	weight=	4	sign=	0
+si=	2	0	1	39	5	so=	3	0	2	32	4	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	5	so=	3	0	2	40	9	57	4	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	5	so=	2	0	2	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	5	so=	3	0	1	17	4	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	5	so=	5	0	1	17	4	25	1	39	8	63	2	dist=	39	weight=	4	sign=	0
+si=	2	0	1	39	5	so=	3	0	1	24	2	56	4	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	5	so=	2	0	1	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	5	so=	4	0	1	38	2	39	1	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	5	so=	3	0	1	39	9	63	2	dist=	0	weight=	8	sign=	0
+si=	2	0	1	39	5	so=	3	0	1	39	1	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	1	39	5	so=	3	0	1	39	1	63	2	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	39	4	40	1	so=	3	0	4	39	4	47	11	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	4	40	1	so=	3	0	4	40	4	47	11	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	4	40	1	so=	2	0	4	47	11	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	4	40	1	so=	3	0	2	32	4	40	11	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	4	40	1	so=	3	0	2	32	4	40	3	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	4	40	1	so=	3	0	2	40	11	57	4	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	4	40	1	so=	2	0	2	40	11	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	4	40	1	so=	3	0	2	40	3	57	4	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	4	40	1	so=	2	0	2	40	3	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	4	40	1	so=	3	0	1	23	2	63	11	dist=	40	weight=	12	sign=	0
+si=	3	0	1	39	4	40	1	so=	3	0	1	23	2	63	3	dist=	40	weight=	12	sign=	0
+si=	3	0	1	39	4	40	1	so=	3	0	1	39	11	63	2	dist=	0	weight=	12	sign=	0
+si=	3	0	1	39	4	40	1	so=	3	0	1	39	3	56	4	dist=	0	weight=	10	sign=	0
+si=	3	0	1	39	4	40	1	so=	3	0	1	39	3	63	2	dist=	0	weight=	12	sign=	0
+
+si=	3	0	1	39	4	56	5	so=	3	0	5	39	12	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	4	56	5	so=	2	0	5	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	4	56	5	so=	3	0	4	8	9	25	5	dist=	31	weight=	10	sign=	0
+si=	3	0	1	39	4	56	5	so=	3	0	4	8	5	55	9	dist=	48	weight=	10	sign=	0
+si=	3	0	1	39	4	56	5	so=	3	0	2	40	9	57	5	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	4	56	5	so=	3	0	1	7	2	47	9	dist=	56	weight=	12	sign=	0
+si=	3	0	1	39	4	56	5	so=	3	0	1	17	5	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	4	56	5	so=	3	0	1	17	1	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	4	56	5	so=	3	0	1	39	1	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	39	4	56	4	so=	3	0	5	39	12	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	4	56	4	so=	2	0	5	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	4	56	4	so=	3	0	4	8	9	25	5	dist=	31	weight=	10	sign=	0
+si=	3	0	1	39	4	56	4	so=	3	0	4	8	5	55	9	dist=	48	weight=	10	sign=	0
+si=	3	0	1	39	4	56	4	so=	3	0	2	40	9	57	5	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	4	56	4	so=	3	0	1	7	2	47	9	dist=	56	weight=	12	sign=	0
+si=	3	0	1	39	4	56	4	so=	3	0	1	17	5	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	4	56	4	so=	3	0	1	17	1	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	4	56	4	so=	3	0	1	39	1	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	39	4	56	1	so=	3	0	4	8	5	55	9	dist=	48	weight=	8	sign=	0
+
+si=	3	0	1	39	4	57	1	so=	2	0	6	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	4	57	1	so=	3	0	4	7	6	54	9	dist=	49	weight=	10	sign=	0
+si=	3	0	1	39	4	57	1	so=	3	0	4	8	9	25	6	dist=	31	weight=	10	sign=	0
+si=	3	0	1	39	4	57	1	so=	3	0	2	40	9	57	6	dist=	63	weight=	12	sign=	0
+si=	3	0	1	39	4	57	1	so=	3	0	1	17	6	24	2	dist=	39	weight=	12	sign=	0
+si=	3	0	1	39	4	57	1	so=	3	0	1	39	1	56	6	dist=	0	weight=	10	sign=	0
+si=	3	0	1	39	4	57	1	so=	3	0	1	46	9	63	6	dist=	57	weight=	10	sign=	0
+
+si=	3	0	1	39	4	63	2	so=	3	0	3	32	4	39	10	dist=	63	weight=	8	sign=	0
+si=	3	0	1	39	4	63	2	so=	3	0	3	39	10	40	9	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	4	63	2	so=	3	0	1	24	3	63	10	dist=	39	weight=	10	sign=	0
+
+si=	2	0	1	39	4	so=	4	0	4	22	8	39	4	47	8	dist=	56	weight=	4	sign=	0
+si=	2	0	1	39	4	so=	3	0	4	39	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	1	39	4	so=	2	0	4	47	9	dist=	56	weight=	6	sign=	0
+si=	2	0	1	39	4	so=	4	0	2	1	8	18	4	57	4	dist=	38	weight=	4	sign=	0
+si=	2	0	1	39	4	so=	3	0	2	32	4	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	4	so=	3	0	2	40	9	57	4	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	4	so=	2	0	2	40	9	dist=	63	weight=	8	sign=	0
+si=	2	0	1	39	4	so=	4	0	1	14	8	31	4	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	4	so=	3	0	1	17	4	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	4	so=	3	0	1	24	2	56	4	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	4	so=	2	0	1	24	2	dist=	39	weight=	8	sign=	0
+si=	2	0	1	39	4	so=	4	0	1	31	4	38	2	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	4	so=	3	0	1	39	9	63	2	dist=	0	weight=	8	sign=	0
+si=	2	0	1	39	4	so=	3	0	1	39	1	56	4	dist=	0	weight=	6	sign=	0
+si=	2	0	1	39	4	so=	3	0	1	39	1	63	2	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	39	3	40	1	so=	3	0	4	40	4	47	11	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	3	40	1	so=	2	0	4	47	11	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	3	40	1	so=	3	0	2	40	11	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	3	40	1	so=	2	0	2	40	11	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	3	40	1	so=	3	0	2	40	3	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	3	40	1	so=	2	0	2	40	3	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	3	40	1	so=	3	0	1	23	2	63	11	dist=	40	weight=	10	sign=	0
+si=	3	0	1	39	3	40	1	so=	3	0	1	23	2	63	3	dist=	40	weight=	10	sign=	0
+si=	3	0	1	39	3	40	1	so=	3	0	1	39	11	63	2	dist=	0	weight=	10	sign=	0
+si=	3	0	1	39	3	40	1	so=	3	0	1	39	3	56	4	dist=	0	weight=	8	sign=	0
+si=	3	0	1	39	3	40	1	so=	3	0	1	39	3	63	2	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	39	3	56	4	so=	2	0	5	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	3	56	4	so=	3	0	4	8	5	55	9	dist=	48	weight=	8	sign=	0
+si=	3	0	1	39	3	56	4	so=	3	0	2	40	9	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	3	56	4	so=	3	0	1	7	2	47	9	dist=	56	weight=	10	sign=	0
+si=	3	0	1	39	3	56	4	so=	3	0	1	17	5	24	2	dist=	39	weight=	10	sign=	0
+si=	3	0	1	39	3	56	4	so=	3	0	1	17	1	24	2	dist=	39	weight=	10	sign=	0
+si=	3	0	1	39	3	56	4	so=	3	0	1	39	1	56	5	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	39	3	63	2	so=	3	0	3	32	4	39	10	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	3	63	2	so=	3	0	3	39	10	40	9	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	3	63	2	so=	3	0	3	39	10	56	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	3	63	2	so=	3	0	3	39	10	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	3	63	2	so=	2	0	3	39	10	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	3	63	2	so=	3	0	2	39	10	63	2	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	3	63	2	so=	3	0	1	24	3	63	10	dist=	39	weight=	10	sign=	0
+si=	3	0	1	39	3	63	2	so=	3	0	1	38	10	63	3	dist=	0	weight=	10	sign=	0
+
+si=	2	0	1	39	3	so=	4	0	4	22	8	39	4	47	8	dist=	56	weight=	4	sign=	0
+si=	2	0	1	39	3	so=	2	0	4	47	9	dist=	56	weight=	4	sign=	0
+si=	2	0	1	39	3	so=	3	0	2	40	9	57	4	dist=	63	weight=	6	sign=	0
+si=	2	0	1	39	3	so=	2	0	2	40	9	dist=	63	weight=	6	sign=	0
+si=	2	0	1	39	3	so=	4	0	1	14	8	31	4	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	3	so=	3	0	1	17	4	24	2	dist=	39	weight=	6	sign=	0
+si=	2	0	1	39	3	so=	2	0	1	24	2	dist=	39	weight=	6	sign=	0
+si=	2	0	1	39	3	so=	3	0	1	39	9	63	2	dist=	0	weight=	6	sign=	0
+si=	2	0	1	39	3	so=	3	0	1	39	1	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	3	so=	3	0	1	39	1	63	2	dist=	0	weight=	6	sign=	0
+
+si=	3	0	1	39	1	56	6	so=	3	0	5	39	12	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	1	56	6	so=	3	0	4	8	9	25	5	dist=	31	weight=	8	sign=	0
+
+si=	3	0	1	39	1	56	5	so=	3	0	5	39	12	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	1	56	5	so=	3	0	4	8	9	25	5	dist=	31	weight=	8	sign=	0
+
+si=	3	0	1	39	1	56	4	so=	3	0	5	39	12	47	9	dist=	56	weight=	8	sign=	0
+si=	3	0	1	39	1	56	4	so=	3	0	4	8	9	25	5	dist=	31	weight=	8	sign=	0
+
+si=	3	0	1	39	1	57	1	so=	3	0	4	8	9	25	6	dist=	31	weight=	8	sign=	0
+
+si=	3	0	1	39	1	63	2	so=	3	0	3	32	4	39	10	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	1	63	2	so=	3	0	3	39	10	40	9	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	1	63	2	so=	3	0	3	39	10	56	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	1	63	2	so=	3	0	3	39	10	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	1	63	2	so=	2	0	3	39	10	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	1	63	2	so=	3	0	2	39	10	63	2	dist=	63	weight=	10	sign=	0
+si=	3	0	1	39	1	63	2	so=	3	0	1	24	3	63	10	dist=	39	weight=	10	sign=	0
+si=	3	0	1	39	1	63	2	so=	3	0	1	38	10	63	3	dist=	0	weight=	10	sign=	0
+
+si=	2	0	1	39	1	so=	4	0	4	22	8	39	4	47	8	dist=	56	weight=	4	sign=	0
+si=	2	0	1	39	1	so=	3	0	4	39	4	47	9	dist=	56	weight=	4	sign=	0
+si=	2	0	1	39	1	so=	3	0	2	32	4	40	9	dist=	63	weight=	6	sign=	0
+si=	2	0	1	39	1	so=	4	0	1	14	8	31	4	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	39	1	so=	3	0	1	24	2	56	4	dist=	39	weight=	6	sign=	0
+si=	2	0	1	39	1	so=	4	0	1	31	4	39	1	56	4	dist=	0	weight=	4	sign=	0
+
+si=	3	0	1	46	9	63	6	so=	3	0	3	39	12	56	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	46	9	63	6	so=	3	0	3	39	12	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	46	9	63	6	so=	2	0	3	39	12	dist=	63	weight=	10	sign=	0
+si=	3	0	1	46	9	63	6	so=	3	0	3	39	4	56	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	46	9	63	6	so=	3	0	3	39	4	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	46	9	63	6	so=	2	0	3	39	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	46	9	63	6	so=	3	0	2	1	3	40	12	dist=	62	weight=	10	sign=	0
+si=	3	0	1	46	9	63	6	so=	3	0	2	1	3	40	4	dist=	62	weight=	10	sign=	0
+si=	3	0	1	46	9	63	6	so=	3	0	2	39	12	56	4	dist=	63	weight=	8	sign=	0
+si=	3	0	1	46	9	63	6	so=	3	0	2	39	4	63	2	dist=	63	weight=	8	sign=	0
+si=	3	0	1	46	9	63	6	so=	3	0	1	38	12	63	3	dist=	0	weight=	10	sign=	0
+si=	3	0	1	46	9	63	6	so=	3	0	1	38	4	63	3	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	46	9	63	4	so=	3	0	3	39	12	56	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	46	9	63	4	so=	3	0	3	39	12	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	46	9	63	4	so=	2	0	3	39	12	dist=	63	weight=	10	sign=	0
+si=	3	0	1	46	9	63	4	so=	3	0	3	39	4	56	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	46	9	63	4	so=	3	0	3	39	4	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	46	9	63	4	so=	2	0	3	39	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	46	9	63	4	so=	3	0	2	1	3	40	12	dist=	62	weight=	10	sign=	0
+si=	3	0	1	46	9	63	4	so=	3	0	2	1	3	40	4	dist=	62	weight=	10	sign=	0
+si=	3	0	1	46	9	63	4	so=	3	0	2	39	12	56	4	dist=	63	weight=	8	sign=	0
+si=	3	0	1	46	9	63	4	so=	3	0	1	38	12	63	3	dist=	0	weight=	10	sign=	0
+si=	3	0	1	46	9	63	4	so=	3	0	1	38	4	63	3	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	48	6	56	5	so=	3	0	1	48	5	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	48	5	56	5	so=	3	0	1	48	5	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	48	5	56	1	so=	3	0	1	48	5	56	5	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	48	4	56	7	so=	3	0	1	48	5	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	48	4	56	5	so=	3	0	1	48	5	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	48	4	56	1	so=	3	0	1	48	5	56	5	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	48	2	63	10	so=	3	0	2	16	3	40	8	dist=	47	weight=	8	sign=	0
+
+si=	3	0	1	49	6	56	6	so=	3	0	1	48	6	56	5	dist=	0	weight=	8	sign=	0
+si=	3	0	1	49	6	56	6	so=	3	0	1	49	1	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	49	5	56	6	so=	3	0	1	48	6	56	5	dist=	0	weight=	10	sign=	0
+si=	3	0	1	49	5	56	6	so=	3	0	1	49	1	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	49	5	57	1	so=	3	0	1	49	5	56	6	dist=	0	weight=	10	sign=	0
+si=	3	0	1	49	5	57	1	so=	3	0	1	49	1	56	6	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	49	4	56	7	so=	3	0	1	49	1	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	49	4	56	6	so=	3	0	1	49	1	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	49	4	56	3	so=	3	0	1	49	1	56	5	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	49	4	57	3	so=	3	0	1	49	5	56	6	dist=	0	weight=	10	sign=	0
+si=	3	0	1	49	4	57	3	so=	3	0	1	49	1	56	6	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	49	4	57	1	so=	3	0	1	49	5	56	6	dist=	0	weight=	10	sign=	0
+si=	3	0	1	49	4	57	1	so=	3	0	1	49	1	56	6	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	49	1	56	6	so=	3	0	1	48	6	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	49	1	56	5	so=	3	0	1	48	6	56	5	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	49	1	56	1	so=	3	0	1	48	6	56	5	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	50	1	57	1	so=	3	0	1	49	6	56	6	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	55	6	63	3	so=	3	0	1	8	3	56	4	dist=	55	weight=	10	sign=	0
+si=	3	0	1	55	6	63	3	so=	2	0	1	8	3	dist=	55	weight=	10	sign=	0
+si=	3	0	1	55	6	63	3	so=	3	0	1	55	1	63	3	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	55	5	63	3	so=	3	0	1	8	3	56	4	dist=	55	weight=	10	sign=	0
+si=	3	0	1	55	5	63	3	so=	2	0	1	8	3	dist=	55	weight=	10	sign=	0
+si=	3	0	1	55	5	63	3	so=	3	0	1	55	1	63	3	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	55	5	63	1	so=	3	0	3	48	4	56	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	55	5	63	1	so=	3	0	3	56	5	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	55	5	63	1	so=	2	0	3	56	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	55	5	63	1	so=	3	0	1	55	5	63	3	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	55	4	63	3	so=	3	0	1	8	3	56	4	dist=	55	weight=	10	sign=	0
+si=	3	0	1	55	4	63	3	so=	2	0	1	8	3	dist=	55	weight=	10	sign=	0
+si=	3	0	1	55	4	63	3	so=	3	0	1	55	1	63	3	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	55	4	63	1	so=	3	0	3	48	4	56	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	55	4	63	1	so=	3	0	3	56	5	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	55	4	63	1	so=	2	0	3	56	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	55	4	63	1	so=	3	0	1	55	5	63	3	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	55	3	56	5	so=	3	0	1	55	3	56	5	dist=	0	weight=	6	sign=	0
+si=	3	0	1	55	3	56	5	so=	3	0	1	55	3	56	4	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	55	3	56	4	so=	3	0	1	55	3	56	5	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	55	1	63	3	so=	3	0	1	8	3	56	4	dist=	55	weight=	8	sign=	0
+
+si=	3	0	1	55	1	63	1	so=	3	0	3	48	4	56	5	dist=	63	weight=	8	sign=	0
+
+si=	3	0	1	56	7	57	1	so=	3	0	1	48	4	56	7	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	7	57	1	so=	3	0	1	49	4	56	7	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	7	57	1	so=	3	0	1	56	7	57	1	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	7	57	1	so=	2	0	1	56	7	dist=	0	weight=	10	sign=	0
+
+si=	2	0	1	56	7	so=	5	0	2	1	5	40	8	48	8	57	4	dist=	55	weight=	4	sign=	0
+si=	2	0	1	56	7	so=	4	0	2	1	5	48	8	57	4	dist=	55	weight=	4	sign=	0
+si=	2	0	1	56	7	so=	5	0	1	31	8	48	4	55	2	56	5	dist=	0	weight=	4	sign=	0
+si=	2	0	1	56	7	so=	4	0	1	48	4	55	2	56	5	dist=	0	weight=	4	sign=	0
+si=	2	0	1	56	7	so=	3	0	1	48	4	56	5	dist=	0	weight=	6	sign=	0
+si=	2	0	1	56	7	so=	2	0	1	56	5	dist=	0	weight=	6	sign=	0
+
+si=	3	0	1	56	6	57	3	so=	3	0	1	48	4	56	7	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	6	57	3	so=	3	0	1	49	4	56	7	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	6	57	3	so=	3	0	1	56	7	57	1	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	6	57	3	so=	2	0	1	56	7	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	6	57	3	so=	3	0	1	56	5	57	1	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	56	6	57	1	so=	3	0	1	48	4	56	7	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	6	57	1	so=	3	0	1	49	4	56	7	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	6	57	1	so=	3	0	1	56	7	57	1	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	6	57	1	so=	2	0	1	56	7	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	56	6	63	3	so=	3	0	3	49	4	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	6	63	3	so=	2	0	3	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	6	63	3	so=	3	0	1	7	3	56	4	dist=	56	weight=	10	sign=	0
+si=	3	0	1	56	6	63	3	so=	2	0	1	7	3	dist=	56	weight=	10	sign=	0
+si=	3	0	1	56	6	63	3	so=	3	0	1	56	5	63	3	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	6	63	3	so=	3	0	1	56	5	63	1	dist=	0	weight=	8	sign=	0
+si=	3	0	1	56	6	63	3	so=	3	0	1	56	1	63	3	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	56	6	63	1	so=	3	0	3	56	6	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	6	63	1	so=	3	0	3	56	6	57	4	dist=	63	weight=	8	sign=	0
+si=	3	0	1	56	6	63	1	so=	2	0	3	56	6	dist=	63	weight=	8	sign=	0
+si=	3	0	1	56	6	63	1	so=	3	0	3	56	4	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	6	63	1	so=	3	0	1	7	3	63	6	dist=	56	weight=	10	sign=	0
+si=	3	0	1	56	6	63	1	so=	3	0	1	7	3	63	4	dist=	56	weight=	10	sign=	0
+si=	3	0	1	56	6	63	1	so=	3	0	1	55	6	63	3	dist=	0	weight=	8	sign=	0
+
+si=	2	0	1	56	6	so=	4	0	4	39	8	47	8	56	4	dist=	56	weight=	4	sign=	0
+si=	2	0	1	56	6	so=	3	0	2	1	4	48	8	dist=	55	weight=	4	sign=	0
+si=	2	0	1	56	6	so=	4	0	1	31	8	48	4	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	56	6	so=	3	0	1	48	4	56	5	dist=	0	weight=	6	sign=	0
+si=	2	0	1	56	6	so=	3	0	1	55	2	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	56	6	so=	2	0	1	56	5	dist=	0	weight=	6	sign=	0
+
+si=	3	0	1	56	5	57	1	so=	3	0	1	48	4	56	7	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	5	57	1	so=	3	0	1	49	4	56	7	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	5	57	1	so=	3	0	1	56	7	57	1	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	5	57	1	so=	2	0	1	56	7	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	56	5	63	3	so=	3	0	3	49	4	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	5	63	3	so=	2	0	3	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	5	63	3	so=	3	0	1	7	3	56	4	dist=	56	weight=	10	sign=	0
+si=	3	0	1	56	5	63	3	so=	2	0	1	7	3	dist=	56	weight=	10	sign=	0
+si=	3	0	1	56	5	63	3	so=	3	0	1	56	5	63	3	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	5	63	3	so=	3	0	1	56	5	63	1	dist=	0	weight=	8	sign=	0
+si=	3	0	1	56	5	63	3	so=	3	0	1	56	1	63	3	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	56	5	63	1	so=	3	0	3	49	4	56	6	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	5	63	1	so=	3	0	3	56	6	57	5	dist=	63	weight=	8	sign=	0
+si=	3	0	1	56	5	63	1	so=	3	0	3	56	6	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	5	63	1	so=	2	0	3	56	6	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	5	63	1	so=	3	0	3	56	4	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	5	63	1	so=	3	0	1	7	3	63	6	dist=	56	weight=	8	sign=	0
+si=	3	0	1	56	5	63	1	so=	3	0	1	7	3	63	4	dist=	56	weight=	10	sign=	0
+si=	3	0	1	56	5	63	1	so=	3	0	1	55	6	63	3	dist=	0	weight=	10	sign=	0
+
+si=	2	0	1	56	5	so=	4	0	2	1	5	40	8	48	8	dist=	55	weight=	4	sign=	0
+si=	2	0	1	56	5	so=	3	0	2	1	5	48	8	dist=	55	weight=	4	sign=	0
+si=	2	0	1	56	5	so=	4	0	1	31	8	55	2	56	5	dist=	0	weight=	4	sign=	0
+si=	2	0	1	56	5	so=	3	0	1	48	4	56	5	dist=	0	weight=	6	sign=	0
+si=	2	0	1	56	5	so=	3	0	1	55	2	56	5	dist=	0	weight=	4	sign=	0
+si=	2	0	1	56	5	so=	2	0	1	56	5	dist=	0	weight=	6	sign=	0
+
+si=	3	0	1	56	4	57	3	so=	3	0	1	48	4	56	7	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	4	57	3	so=	3	0	1	49	4	56	7	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	4	57	3	so=	3	0	1	56	7	57	1	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	4	57	3	so=	2	0	1	56	7	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	4	57	3	so=	3	0	1	56	5	57	1	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	56	4	57	1	so=	3	0	1	48	4	56	7	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	4	57	1	so=	3	0	1	49	4	56	7	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	4	57	1	so=	3	0	1	56	7	57	1	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	4	57	1	so=	2	0	1	56	7	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	56	4	63	3	so=	3	0	3	49	4	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	4	63	3	so=	2	0	3	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	4	63	3	so=	3	0	1	7	3	56	4	dist=	56	weight=	10	sign=	0
+si=	3	0	1	56	4	63	3	so=	2	0	1	7	3	dist=	56	weight=	10	sign=	0
+si=	3	0	1	56	4	63	3	so=	3	0	1	56	5	63	3	dist=	0	weight=	10	sign=	0
+si=	3	0	1	56	4	63	3	so=	3	0	1	56	5	63	1	dist=	0	weight=	8	sign=	0
+si=	3	0	1	56	4	63	3	so=	3	0	1	56	1	63	3	dist=	0	weight=	10	sign=	0
+
+si=	3	0	1	56	4	63	1	so=	3	0	3	49	4	56	6	dist=	63	weight=	8	sign=	0
+si=	3	0	1	56	4	63	1	so=	3	0	3	56	6	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	4	63	1	so=	3	0	3	56	4	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	4	63	1	so=	3	0	1	7	3	63	6	dist=	56	weight=	10	sign=	0
+si=	3	0	1	56	4	63	1	so=	3	0	1	7	3	63	4	dist=	56	weight=	10	sign=	0
+
+si=	2	0	1	56	4	so=	4	0	4	39	8	47	8	56	4	dist=	56	weight=	4	sign=	0
+si=	2	0	1	56	4	so=	4	0	2	1	4	48	8	57	4	dist=	55	weight=	4	sign=	0
+si=	2	0	1	56	4	so=	4	0	1	31	8	48	4	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	56	4	so=	4	0	1	48	4	55	2	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	56	4	so=	3	0	1	48	4	56	5	dist=	0	weight=	6	sign=	0
+si=	2	0	1	56	4	so=	2	0	1	56	5	dist=	0	weight=	6	sign=	0
+
+si=	3	0	1	56	3	57	1	so=	3	0	1	49	4	56	7	dist=	0	weight=	8	sign=	0
+si=	3	0	1	56	3	57	1	so=	3	0	1	56	7	57	1	dist=	0	weight=	8	sign=	0
+si=	3	0	1	56	3	57	1	so=	2	0	1	56	7	dist=	0	weight=	8	sign=	0
+
+si=	2	0	1	56	3	so=	2	0	5	47	8	dist=	56	weight=	4	sign=	0
+si=	2	0	1	56	3	so=	4	0	4	39	8	47	8	56	4	dist=	56	weight=	4	sign=	0
+si=	2	0	1	56	3	so=	4	0	1	31	8	48	4	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	56	3	so=	2	0	1	56	5	dist=	0	weight=	4	sign=	0
+
+si=	3	0	1	56	1	57	1	so=	3	0	1	48	4	56	7	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	56	1	63	3	so=	3	0	3	49	4	57	5	dist=	63	weight=	8	sign=	0
+si=	3	0	1	56	1	63	3	so=	3	0	1	7	3	56	4	dist=	56	weight=	8	sign=	0
+
+si=	3	0	1	56	1	63	1	so=	3	0	3	49	4	56	6	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	1	63	1	so=	3	0	3	56	6	57	5	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	1	63	1	so=	3	0	3	56	6	57	4	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	1	63	1	so=	2	0	3	56	6	dist=	63	weight=	10	sign=	0
+si=	3	0	1	56	1	63	1	so=	3	0	1	7	3	63	6	dist=	56	weight=	10	sign=	0
+si=	3	0	1	56	1	63	1	so=	3	0	1	55	6	63	3	dist=	0	weight=	10	sign=	0
+
+si=	2	0	1	56	1	so=	3	0	4	8	5	55	8	dist=	48	weight=	4	sign=	0
+si=	2	0	1	56	1	so=	4	0	4	39	8	47	8	56	4	dist=	56	weight=	4	sign=	0
+si=	2	0	1	56	1	so=	4	0	1	31	8	48	4	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	56	1	so=	3	0	1	48	4	56	5	dist=	0	weight=	4	sign=	0
+
+si=	3	0	1	57	3	58	1	so=	3	0	1	56	6	57	3	dist=	0	weight=	10	sign=	0
+si=	3	0	1	57	3	58	1	so=	3	0	1	56	4	57	3	dist=	0	weight=	8	sign=	0
+
+si=	2	0	1	57	3	so=	4	0	4	40	8	47	8	57	4	dist=	56	weight=	4	sign=	0
+si=	2	0	1	57	3	so=	4	0	1	32	8	49	4	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	57	3	so=	3	0	1	46	8	63	4	dist=	57	weight=	4	sign=	0
+si=	2	0	1	57	3	so=	3	0	1	49	4	56	6	dist=	0	weight=	6	sign=	0
+si=	2	0	1	57	3	so=	3	0	1	56	6	57	1	dist=	0	weight=	6	sign=	0
+si=	2	0	1	57	3	so=	2	0	1	56	6	dist=	0	weight=	6	sign=	0
+si=	2	0	1	57	3	so=	3	0	1	56	4	57	1	dist=	0	weight=	4	sign=	0
+
+si=	3	0	1	57	1	63	3	so=	3	0	3	50	4	57	6	dist=	63	weight=	10	sign=	0
+si=	3	0	1	57	1	63	3	so=	2	0	3	57	6	dist=	63	weight=	10	sign=	0
+si=	3	0	1	57	1	63	3	so=	3	0	1	6	3	63	6	dist=	57	weight=	10	sign=	0
+si=	3	0	1	57	1	63	3	so=	3	0	1	56	6	63	3	dist=	0	weight=	10	sign=	0
+si=	3	0	1	57	1	63	3	so=	3	0	1	56	6	63	1	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	57	1	63	1	so=	3	0	3	56	4	57	6	dist=	63	weight=	10	sign=	0
+
+si=	2	0	1	57	1	so=	4	0	4	40	8	47	8	57	4	dist=	56	weight=	4	sign=	0
+si=	2	0	1	57	1	so=	4	0	1	32	8	49	4	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	57	1	so=	4	0	1	46	8	56	4	63	4	dist=	57	weight=	4	sign=	0
+si=	2	0	1	57	1	so=	3	0	1	49	4	56	6	dist=	0	weight=	6	sign=	0
+si=	2	0	1	57	1	so=	4	0	1	49	4	56	4	57	1	dist=	0	weight=	4	sign=	0
+si=	2	0	1	57	1	so=	3	0	1	56	6	57	1	dist=	0	weight=	6	sign=	0
+si=	2	0	1	57	1	so=	2	0	1	56	6	dist=	0	weight=	6	sign=	0
+
+si=	3	0	1	62	3	63	3	so=	3	0	3	56	4	63	3	dist=	63	weight=	10	sign=	0
+si=	3	0	1	62	3	63	3	so=	3	0	3	57	4	63	3	dist=	63	weight=	10	sign=	0
+si=	3	0	1	62	3	63	3	so=	2	0	3	63	3	dist=	63	weight=	10	sign=	0
+si=	3	0	1	62	3	63	3	so=	2	0	1	1	3	dist=	62	weight=	8	sign=	0
+si=	3	0	1	62	3	63	3	so=	3	0	1	62	3	63	3	dist=	0	weight=	10	sign=	0
+si=	3	0	1	62	3	63	3	so=	3	0	1	62	1	63	3	dist=	0	weight=	8	sign=	0
+
+si=	3	0	1	62	1	63	3	so=	3	0	3	55	4	63	3	dist=	63	weight=	10	sign=	0
+si=	3	0	1	62	1	63	3	so=	3	0	1	1	3	56	4	dist=	62	weight=	8	sign=	0
+
+si=	2	0	1	63	3	so=	4	0	4	46	8	47	8	63	4	dist=	56	weight=	4	sign=	0
+si=	2	0	1	63	3	so=	2	0	3	57	4	dist=	63	weight=	6	sign=	0
+si=	2	0	1	63	3	so=	1	0	3	dist=	63	weight=	6	sign=	0
+si=	2	0	1	63	3	so=	4	0	1	38	8	55	4	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	63	3	so=	3	0	1	40	8	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	1	63	3	so=	3	0	1	56	4	63	3	dist=	0	weight=	6	sign=	0
+si=	2	0	1	63	3	so=	3	0	1	56	4	63	1	dist=	0	weight=	4	sign=	0
+si=	2	0	1	63	3	so=	2	0	1	63	3	dist=	0	weight=	6	sign=	0
+
+si=	2	0	1	63	1	so=	4	0	4	46	8	47	8	63	4	dist=	56	weight=	4	sign=	0
+si=	2	0	1	63	1	so=	3	0	3	56	4	57	4	dist=	63	weight=	6	sign=	0
+si=	2	0	1	63	1	so=	2	0	3	56	4	dist=	63	weight=	6	sign=	0
+si=	2	0	1	63	1	so=	4	0	1	38	8	55	4	56	4	dist=	0	weight=	4	sign=	0
+si=	2	0	1	63	1	so=	4	0	1	40	8	56	4	57	4	dist=	63	weight=	4	sign=	0
+si=	2	0	1	63	1	so=	4	0	1	55	4	56	4	63	1	dist=	0	weight=	4	sign=	0
+si=	2	0	1	63	1	so=	3	0	1	55	4	63	3	dist=	0	weight=	6	sign=	0
+
+si=	1	0	1	so=	2	0	4	47	8	dist=	56	weight=	2	sign=	0
+si=	1	0	1	so=	3	0	2	40	8	57	4	dist=	63	weight=	4	sign=	0
+si=	1	0	1	so=	2	0	2	40	8	dist=	63	weight=	4	sign=	0
+si=	1	0	1	so=	2	0	2	57	4	dist=	63	weight=	4	sign=	0
+si=	1	0	1	so=	1	0	2	dist=	63	weight=	4	sign=	0
+si=	1	0	1	so=	4	0	1	39	8	56	4	63	2	dist=	0	weight=	4	sign=	0
+si=	1	0	1	so=	3	0	1	39	8	63	2	dist=	0	weight=	4	sign=	0
+si=	1	0	1	so=	3	0	1	56	4	63	2	dist=	0	weight=	4	sign=	0
+si=	1	0	1	so=	2	0	1	56	4	dist=	0	weight=	2	sign=	0
+si=	1	0	1	so=	2	0	1	63	2	dist=	0	weight=	4	sign=	0
+

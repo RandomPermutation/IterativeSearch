@@ -1,0 +1,32 @@
+si=	2	0	10	8	10	so=	2	4	2	6	2	dist=	0	weight=	4	sign=	0
+
+si=	2	0	2	2	2	so=	2	4	10	12	10	dist=	0	weight=	8	sign=	0
+
+si=	2	1	10	9	10	so=	2	0	2	2	2	dist=	0	weight=	4	sign=	0
+
+si=	2	1	2	3	2	so=	2	0	10	8	10	dist=	0	weight=	8	sign=	0
+
+si=	2	2	10	10	10	so=	2	12	2	14	2	dist=	0	weight=	4	sign=	0
+
+si=	2	3	10	11	10	so=	2	8	2	10	2	dist=	0	weight=	4	sign=	0
+
+si=	2	4	10	12	10	so=	2	5	2	7	2	dist=	0	weight=	4	sign=	0
+
+si=	2	4	2	6	2	so=	2	5	10	13	10	dist=	0	weight=	8	sign=	0
+
+si=	2	5	10	13	10	so=	2	1	2	3	2	dist=	0	weight=	4	sign=	0
+
+si=	2	5	2	7	2	so=	2	1	10	9	10	dist=	0	weight=	8	sign=	0
+
+si=	2	6	10	14	10	so=	2	13	2	15	2	dist=	0	weight=	4	sign=	0
+
+si=	2	7	10	15	10	so=	2	9	2	11	2	dist=	0	weight=	4	sign=	0
+
+si=	2	8	2	10	2	so=	2	6	10	14	10	dist=	0	weight=	8	sign=	0
+
+si=	2	9	2	11	2	so=	2	2	10	10	10	dist=	0	weight=	8	sign=	0
+
+si=	2	12	2	14	2	so=	2	7	10	15	10	dist=	0	weight=	8	sign=	0
+
+si=	2	13	2	15	2	so=	2	3	10	11	10	dist=	0	weight=	8	sign=	0
+

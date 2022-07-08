@@ -1,0 +1,34 @@
+digraph G{
+0 [label="X[0]=0xa,X[8]=0xa"] [color=red];
+1 [label="X[0]=0x2,X[2]=0x2"] [color=red];
+2 [label="X[1]=0xa,X[9]=0xa"] [color=red];
+3 [label="X[1]=0x2,X[3]=0x2"] [color=red];
+4 [label="X[2]=0xa,X[10]=0xa"] [color=red];
+5 [label="X[3]=0xa,X[11]=0xa"] [color=red];
+6 [label="X[4]=0xa,X[12]=0xa"] [color=red];
+7 [label="X[4]=0x2,X[6]=0x2"] [color=red];
+8 [label="X[5]=0xa,X[13]=0xa"] [color=red];
+9 [label="X[5]=0x2,X[7]=0x2"] [color=red];
+10 [label="X[6]=0xa,X[14]=0xa"] [color=red];
+11 [label="X[7]=0xa,X[15]=0xa"] [color=red];
+12 [label="X[8]=0x2,X[10]=0x2"] [color=red];
+13 [label="X[9]=0x2,X[11]=0x2"] [color=red];
+14 [label="X[12]=0x2,X[14]=0x2"] [color=red];
+15 [label="X[13]=0x2,X[15]=0x2"] [color=red];
+0 -> 7 [label="w=4"] [color=red];
+1 -> 6 [label="w=8"] [color=red];
+2 -> 1 [label="w=4"] [color=red];
+3 -> 0 [label="w=8"] [color=red];
+4 -> 14 [label="w=4"] [color=red];
+5 -> 12 [label="w=4"] [color=red];
+6 -> 9 [label="w=4"] [color=red];
+7 -> 8 [label="w=8"] [color=red];
+8 -> 3 [label="w=4"] [color=red];
+9 -> 2 [label="w=8"] [color=red];
+10 -> 15 [label="w=4"] [color=red];
+11 -> 13 [label="w=4"] [color=red];
+12 -> 10 [label="w=8"] [color=red];
+13 -> 4 [label="w=8"] [color=red];
+14 -> 11 [label="w=8"] [color=red];
+15 -> 5 [label="w=8"] [color=red];
+}
